@@ -318,6 +318,7 @@ const TRAILHEADS = [
   { id: 'th-17', name: 'Newton Road', lat: 45.591819, lng: -122.802601, parking: '~10 spaces' },
   { id: 'th-18', name: 'Newberry Road', lat: 45.605571, lng: -122.823544, parking: '~12 spaces' },
   { id: 'th-19', name: 'Pittock Mansion', lat: 45.525532, lng: -122.718101, parking: '~40 paid spaces' },
+  { id: 'th-20', name: 'Oregon Zoo / Washington Park', lat: 45.509700, lng: -122.716400, parking: 'Large paid lot' },
 ]
 
 // --- Main ---
@@ -429,7 +430,7 @@ async function main() {
 
   // --- Build graph from segment endpoints ---
   console.log('\nBuilding graph...')
-  const SNAP_TOLERANCE = 0.0003 // ~30m in degrees
+  const SNAP_TOLERANCE = 0.001 // ~100m in degrees — catches BPA Road dogleg + similar gaps
   const nodeMap = new Map() // "lat,lon" key -> nodeId
   const nodes = {} // nodeId -> { id, lat, lon, label }
   const adjacency = {} // nodeId -> [{ node, segment, distance }]
@@ -457,12 +458,38 @@ async function main() {
     const endNode = getOrCreateNode(endCoord[0], endCoord[1], endLabel)
 
     // Add edges in both directions (undirected)
-    adjacency[startNode].push({ node: endNode, segment: id, distance: distanceMiles })
-    adjacency[endNode].push({ node: startNode, segment: id, distance: distanceMiles })
+    const trailType = f.properties.type
+    adjacency[startNode].push({ node: endNode, segment: id, distance: distanceMiles, trailType })
+    adjacency[endNode].push({ node: startNode, segment: id, distance: distanceMiles, trailType })
 
     // Store node IDs on the feature for frontend use
     f.properties.startNode = startNode
     f.properties.endNode = endNode
+  }
+
+  // Replace generic "start"/"end" labels with trail names or nearest trailhead
+  for (const [nodeId, node] of Object.entries(nodes)) {
+    if (node.label === 'start' || node.label === 'end') {
+      // Find which trail this node belongs to
+      const connectedSegs = adjacency[nodeId] || []
+      const trailNames = new Set()
+      for (const edge of connectedSegs) {
+        const feat = features.find((f) => f.properties.id === edge.segment)
+        if (feat) trailNames.add(feat.properties.trailName)
+      }
+      // Check if a trailhead is nearby
+      let nearestTh = null
+      let nearestDist = Infinity
+      for (const th of TRAILHEADS) {
+        const d = haversine(node.lat, node.lon, th.lat, th.lng)
+        if (d < nearestDist) { nearestDist = d; nearestTh = th }
+      }
+      if (nearestDist < 0.15) {
+        node.label = nearestTh.name
+      } else {
+        node.label = [...trailNames].join(' / ') + (node.label === 'end' ? ' end' : ' start')
+      }
+    }
   }
 
   // Tag trailheads with nearest graph nodes

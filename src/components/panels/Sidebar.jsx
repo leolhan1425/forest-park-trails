@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import useStore from '../../store/useStore'
 import RoutePanel from './RoutePanel'
+import DistancePanel from './DistancePanel'
 import ElevationProfile from './ElevationProfile'
 import { encodeStateToURL } from '../../utils/urlState'
 
@@ -50,26 +51,23 @@ export default function Sidebar() {
 
       {/* Mode toggle */}
       <div className="flex border-b border-stone-200">
-        <button
-          className={`flex-1 py-2 text-sm font-medium ${
-            mode === 'select'
-              ? 'bg-teal-50 text-teal-700 border-b-2 border-teal-600'
-              : 'text-stone-500 hover:text-stone-700'
-          }`}
-          onClick={() => setMode('select')}
-        >
-          Select Segments
-        </button>
-        <button
-          className={`flex-1 py-2 text-sm font-medium ${
-            mode === 'route'
-              ? 'bg-teal-50 text-teal-700 border-b-2 border-teal-600'
-              : 'text-stone-500 hover:text-stone-700'
-          }`}
-          onClick={() => setMode('route')}
-        >
-          Plan Route
-        </button>
+        {[
+          { key: 'select', label: 'Segments' },
+          { key: 'route', label: 'Route' },
+          { key: 'distance', label: 'Distance' },
+        ].map(({ key, label }) => (
+          <button
+            key={key}
+            className={`flex-1 py-2 text-sm font-medium ${
+              mode === key
+                ? 'bg-teal-50 text-teal-700 border-b-2 border-teal-600'
+                : 'text-stone-500 hover:text-stone-700'
+            }`}
+            onClick={() => setMode(key)}
+          >
+            {label}
+          </button>
+        ))}
       </div>
 
       {/* Content */}
@@ -103,6 +101,8 @@ export default function Sidebar() {
         )}
 
         {mode === 'route' && <RoutePanel />}
+
+        {mode === 'distance' && <DistancePanel />}
       </div>
 
       {/* Elevation profile */}
@@ -156,14 +156,14 @@ export default function Sidebar() {
       )}
 
       {/* Ko-fi */}
-      <div className="p-3 border-t border-stone-200 text-center">
+      <div className="p-4 border-t border-stone-200 text-center">
         <a
           href="https://ko-fi.com/forestparktrails"
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block text-xs text-stone-500 hover:text-teal-600 transition-colors"
+          className="inline-block text-sm text-teal-700 font-medium hover:text-teal-900 transition-colors"
         >
-          Like this map? Buy me a coffee
+          Like this map? Help support the site
         </a>
       </div>
     </div>

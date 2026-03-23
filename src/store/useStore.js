@@ -1,9 +1,9 @@
 import { create } from 'zustand'
-import { findShortestPath } from '../utils/pathfinder'
+import { findShortestPath, findReachable } from '../utils/pathfinder'
 
 const useStore = create((set, get) => ({
   // Mode
-  mode: 'select', // 'select' | 'route'
+  mode: 'select', // 'select' | 'route' | 'distance'
 
   // Trail data (loaded on init)
   trails: null,
@@ -79,6 +79,36 @@ const useStore = create((set, get) => ({
 
   clearRoute: () =>
     set({ startTrailhead: null, endTrailhead: null, computedRoute: null, routeOutAndBack: false }),
+
+  // Distance explorer mode
+  distanceTrailhead: null,
+  targetMiles: 3.0,
+  reachableResult: null, // { segments: [ids], endpoints: [{lat, lon, label, distance}] }
+
+  setDistanceTrailhead: (id) => {
+    set({ distanceTrailhead: id })
+    get().computeReachable()
+  },
+
+  setTargetMiles: (miles) => {
+    set({ targetMiles: miles })
+    get().computeReachable()
+  },
+
+  computeReachable: () => {
+    const { distanceTrailhead, targetMiles, graph, trailheads } = get()
+    if (!distanceTrailhead || !graph) {
+      set({ reachableResult: null })
+      return
+    }
+    const th = trailheads.find((t) => t.id === distanceTrailhead)
+    if (!th?.nodeId) { set({ reachableResult: null }); return }
+    const result = findReachable(graph, th.nodeId, targetMiles)
+    set({ reachableResult: result })
+  },
+
+  clearDistance: () =>
+    set({ distanceTrailhead: null, targetMiles: 3.0, reachableResult: null }),
 }))
 
 export default useStore

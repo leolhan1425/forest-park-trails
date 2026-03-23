@@ -18,6 +18,13 @@ html, body, #root {
   padding: 0;
 }
 
+/* Prevent mobile bottom bar from blocking map interaction */
+@media (max-width: 767px) {
+  .leaflet-container {
+    padding-bottom: 44px;
+  }
+}
+
 /* Trail name labels on the map */
 .trail-label {
   background: none !important;
@@ -75,4 +82,21 @@ html, body, #root {
 
 .trailhead-label::before {
   border-right-color: rgba(38, 70, 83, 0.85) !important;
+}
+
+/* Distance explorer endpoint labels */
+.endpoint-label {
+  background: rgba(124, 58, 237, 0.9) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 4px !important;
+  padding: 2px 6px !important;
+  font-size: 10px !important;
+  font-weight: 600 !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3) !important;
+  white-space: nowrap !important;
+}
+
+.endpoint-label::before {
+  border-right-color: rgba(124, 58, 237, 0.9) !important;
 }

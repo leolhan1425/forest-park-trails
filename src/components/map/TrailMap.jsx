@@ -67,6 +67,7 @@ export default function TrailMap() {
   const toggleSegment = useStore((s) => s.toggleSegment)
   const mode = useStore((s) => s.mode)
   const computedRoute = useStore((s) => s.computedRoute)
+  const reachableResult = useStore((s) => s.reachableResult)
 
   const storeRef = useRef({ selectedSegments, toggleSegment, mode })
   storeRef.current = { selectedSegments, toggleSegment, mode }
@@ -130,6 +131,21 @@ export default function TrailMap() {
   const routeKey = useMemo(
     () => computedRoute ? `route-${computedRoute.segments.join(',')}` : 'no-route',
     [computedRoute]
+  )
+
+  // Reachable segments overlay (distance explorer)
+  const reachableFeatures = useMemo(() => {
+    if (!trails || !reachableResult) return null
+    const segSet = new Set(reachableResult.segments)
+    return {
+      type: 'FeatureCollection',
+      features: trails.features.filter((f) => segSet.has(f.properties.id)),
+    }
+  }, [trails, reachableResult])
+
+  const reachableKey = useMemo(
+    () => reachableResult ? `reach-${reachableResult.segments.length}` : 'no-reach',
+    [reachableResult]
   )
 
   const parkBoundary = useMemo(() => {
@@ -280,6 +296,29 @@ export default function TrailMap() {
           interactive={false}
         />
       )}
+      {reachableFeatures && (
+        <GeoJSON
+          key={reachableKey}
+          data={reachableFeatures}
+          style={{ color: '#7c3aed', weight: 6, opacity: 0.85, interactive: false }}
+          interactive={false}
+        />
+      )}
+      {reachableResult && reachableResult.endpoints.map((ep, i) => (
+        <CircleMarker
+          key={`ep-${i}`}
+          center={[ep.lat, ep.lon]}
+          radius={5}
+          fillColor="#7c3aed"
+          fillOpacity={0.9}
+          color="#fff"
+          weight={2}
+        >
+          <Tooltip direction="top" offset={[0, -8]} permanent className="endpoint-label">
+            {ep.label} ({ep.distance} mi)
+          </Tooltip>
+        </CircleMarker>
+      ))}
 
       {/* Trail name labels */}
       {trailLabels.map((label, i) => (
