@@ -1,0 +1,154 @@
+[
+  {
+    "id": "th-1",
+    "name": "Lower Macleay Park",
+    "lat": 45.536085,
+    "lng": -122.712436,
+    "parking": "~6 spaces",
+    "nodeId": "n150"
+  },
+  {
+    "id": "th-2",
+    "name": "Thurman: Leif Erikson Drive",
+    "lat": 45.539692,
+    "lng": -122.724152,
+    "parking": "~10 spaces",
+    "nodeId": "n73"
+  },
+  {
+    "id": "th-3",
+    "name": "Upper Macleay Park",
+    "lat": 45.526915,
+    "lng": -122.726383,
+    "parking": "~10 spaces",
+    "nodeId": "n29"
+  },
+  {
+    "id": "th-4",
+    "name": "Aspen Trail",
+    "lat": 45.536235,
+    "lng": -122.71883,
+    "parking": "~4 spaces",
+    "nodeId": "n154"
+  },
+  {
+    "id": "th-5",
+    "name": "Holman Lane",
+    "lat": 45.53371,
+    "lng": -122.718658,
+    "parking": null,
+    "nodeId": "n153"
+  },
+  {
+    "id": "th-6",
+    "name": "Tunnel & Cumberland Trails",
+    "lat": 45.530343,
+    "lng": -122.717328,
+    "parking": "~6 spaces",
+    "nodeId": "n148"
+  },
+  {
+    "id": "th-7",
+    "name": "Forest Lane: Firelane 1",
+    "lat": 45.545252,
+    "lng": -122.746038,
+    "parking": "~20 spaces",
+    "nodeId": "n97"
+  },
+  {
+    "id": "th-8",
+    "name": "NW 53rd: Birch Trail",
+    "lat": 45.533551,
+    "lng": -122.732962,
+    "parking": "~12 spaces",
+    "nodeId": "n155"
+  },
+  {
+    "id": "th-9",
+    "name": "NW 53rd: Dogwood & Wild Cherry",
+    "lat": 45.53876,
+    "lng": -122.73428,
+    "parking": "~8 spaces",
+    "nodeId": "n156"
+  },
+  {
+    "id": "th-10",
+    "name": "NW 53rd: Wildwood Trail",
+    "lat": 45.540533,
+    "lng": -122.737327,
+    "parking": "~20 spaces",
+    "nodeId": "n37"
+  },
+  {
+    "id": "th-11",
+    "name": "Lower Saltzman Road",
+    "lat": 45.566588,
+    "lng": -122.753592,
+    "parking": "~20 spaces",
+    "nodeId": "n105"
+  },
+  {
+    "id": "th-12",
+    "name": "Upper Springville Road",
+    "lat": 45.573978,
+    "lng": -122.789812,
+    "parking": "~15 spaces",
+    "nodeId": "n119"
+  },
+  {
+    "id": "th-13",
+    "name": "Upper Saltzman & Firelane 5",
+    "lat": 45.562141,
+    "lng": -122.783589,
+    "parking": "~15 spaces",
+    "nodeId": "n102"
+  },
+  {
+    "id": "th-14",
+    "name": "Germantown: Leif Erikson",
+    "lat": 45.589236,
+    "lng": -122.790327,
+    "parking": "~20 spaces",
+    "nodeId": "n95"
+  },
+  {
+    "id": "th-15",
+    "name": "Germantown: Wildwood Trail",
+    "lat": 45.587555,
+    "lng": -122.794104,
+    "parking": "~20 spaces",
+    "nodeId": "n62"
+  },
+  {
+    "id": "th-16",
+    "name": "Ridge Trail",
+    "lat": 45.580767,
+    "lng": -122.766294,
+    "parking": "~3 spaces",
+    "nodeId": "n166"
+  },
+  {
+    "id": "th-17",
+    "name": "Newton Road",
+    "lat": 45.591819,
+    "lng": -122.802601,
+    "parking": "~10 spaces",
+    "nodeId": "n127"
+  },
+  {
+    "id": "th-18",
+    "name": "Newberry Road",
+    "lat": 45.605571,
+    "lng": -122.823544,
+    "parking": "~12 spaces",
+    "nodeId": "n72"
+  },
+  {
+    "id": "th-19",
+    "name": "Pittock Mansion",
+    "lat": 45.525532,
+    "lng": -122.718101,
+    "parking": "~40 paid spaces",
+    "nodeId": "n24"
+  }
+]

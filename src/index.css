@@ -1,0 +1,78 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --color-trail: #2a9d8f;
+  --color-trail-hover: #3dbfb0;
+  --color-selected: #e76f51;
+  --color-route: #264653;
+  --color-firelane: #d4a017;
+  --color-wildwood: #1b7340;
+  --color-leif: #5c4033;
+  --color-connector: #94a3b8;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Trail name labels on the map */
+.trail-label {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.trail-label span {
+  font-size: 11px;
+  font-weight: 600;
+  white-space: nowrap;
+  padding: 1px 4px;
+  border-radius: 3px;
+  pointer-events: none;
+}
+
+.label-wildwood span {
+  color: #1b7340;
+  background: rgba(255, 255, 255, 0.75);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.label-leif span {
+  color: #5c4033;
+  background: rgba(255, 255, 255, 0.75);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.label-trail span {
+  color: #1a5c53;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 10px;
+}
+
+.label-firelane span {
+  color: #8b6914;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 10px;
+}
+
+/* Trailhead permanent labels */
+.trailhead-label {
+  background: rgba(38, 70, 83, 0.85) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 4px !important;
+  padding: 2px 6px !important;
+  font-size: 10px !important;
+  font-weight: 600 !important;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3) !important;
+  white-space: nowrap !important;
+}
+
+.trailhead-label::before {
+  border-right-color: rgba(38, 70, 83, 0.85) !important;
+}
