@@ -238,6 +238,7 @@ export default function TrailMap() {
       maxBounds={BOUNDS}
       maxBoundsViscosity={1.0}
       minZoom={12}
+      renderer={L.canvas({ tolerance: 10 })}
     >
       <TileLayer
         attribution='&copy; <a href="https://carto.com">CARTO</a>'

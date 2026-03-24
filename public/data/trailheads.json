@@ -5,7 +5,7 @@
     "lat": 45.536085,
     "lng": -122.712436,
     "parking": "~6 spaces",
-    "nodeId": "n122"
+    "nodeId": "n120"
   },
   {
     "id": "th-2",
@@ -13,7 +13,7 @@
     "lat": 45.539692,
     "lng": -122.724152,
     "parking": "~10 spaces",
-    "nodeId": "n56"
+    "nodeId": "n54"
   },
   {
     "id": "th-3",
@@ -21,7 +21,7 @@
     "lat": 45.526915,
     "lng": -122.726383,
     "parking": "~10 spaces",
-    "nodeId": "n17"
+    "nodeId": "n16"
   },
   {
     "id": "th-4",
@@ -29,7 +29,7 @@
     "lat": 45.536235,
     "lng": -122.71883,
     "parking": "~4 spaces",
-    "nodeId": "n126"
+    "nodeId": "n124"
   },
   {
     "id": "th-5",
@@ -37,7 +37,7 @@
     "lat": 45.53371,
     "lng": -122.718658,
     "parking": null,
-    "nodeId": "n125"
+    "nodeId": "n123"
   },
   {
     "id": "th-6",
@@ -45,7 +45,7 @@
     "lat": 45.530343,
     "lng": -122.717328,
     "parking": "~6 spaces",
-    "nodeId": "n121"
+    "nodeId": "n119"
   },
   {
     "id": "th-7",
@@ -53,7 +53,7 @@
     "lat": 45.545252,
     "lng": -122.746038,
     "parking": "~20 spaces",
-    "nodeId": "n79"
+    "nodeId": "n77"
   },
   {
     "id": "th-8",
@@ -61,7 +61,7 @@
     "lat": 45.533551,
     "lng": -122.732962,
     "parking": "~12 spaces",
-    "nodeId": "n127"
+    "nodeId": "n121"
   },
   {
     "id": "th-9",
@@ -69,7 +69,7 @@
     "lat": 45.53876,
     "lng": -122.73428,
     "parking": "~8 spaces",
-    "nodeId": "n128"
+    "nodeId": "n125"
   },
   {
     "id": "th-10",
@@ -77,7 +77,7 @@
     "lat": 45.540533,
     "lng": -122.737327,
     "parking": "~20 spaces",
-    "nodeId": "n25"
+    "nodeId": "n24"
   },
   {
     "id": "th-11",
@@ -85,7 +85,7 @@
     "lat": 45.566588,
     "lng": -122.753592,
     "parking": "~20 spaces",
-    "nodeId": "n87"
+    "nodeId": "n85"
   },
   {
     "id": "th-12",
@@ -93,7 +93,7 @@
     "lat": 45.573978,
     "lng": -122.789812,
     "parking": "~15 spaces",
-    "nodeId": "n98"
+    "nodeId": "n96"
   },
   {
     "id": "th-13",
@@ -101,7 +101,7 @@
     "lat": 45.562141,
     "lng": -122.783589,
     "parking": "~15 spaces",
-    "nodeId": "n84"
+    "nodeId": "n82"
   },
   {
     "id": "th-14",
@@ -109,7 +109,7 @@
     "lat": 45.589236,
     "lng": -122.790327,
     "parking": "~20 spaces",
-    "nodeId": "n77"
+    "nodeId": "n75"
   },
   {
     "id": "th-15",
@@ -117,7 +117,7 @@
     "lat": 45.587555,
     "lng": -122.794104,
     "parking": "~20 spaces",
-    "nodeId": "n47"
+    "nodeId": "n45"
   },
   {
     "id": "th-16",
@@ -125,7 +125,7 @@
     "lat": 45.580767,
     "lng": -122.766294,
     "parking": "~3 spaces",
-    "nodeId": "n132"
+    "nodeId": "n129"
   },
   {
     "id": "th-17",
@@ -133,7 +133,7 @@
     "lat": 45.591819,
     "lng": -122.802601,
     "parking": "~10 spaces",
-    "nodeId": "n101"
+    "nodeId": "n99"
   },
   {
     "id": "th-18",
@@ -141,7 +141,7 @@
     "lat": 45.605571,
     "lng": -122.823544,
     "parking": "~12 spaces",
-    "nodeId": "n55"
+    "nodeId": "n53"
   },
   {
     "id": "th-19",
@@ -149,7 +149,7 @@
     "lat": 45.525532,
     "lng": -122.718101,
     "parking": "~40 paid spaces",
-    "nodeId": "n14"
+    "nodeId": "n13"
   },
   {
     "id": "th-20",

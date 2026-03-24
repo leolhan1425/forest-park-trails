@@ -20,816 +20,798 @@
     },
     "n4": {
       "id": "n4",
-      "lat": 45.51433277777778,
-      "lon": -122.7152975510529,
-      "label": "top of hill"
+      "lat": 45.514051175,
+      "lon": -122.71359301118629,
+      "label": "Cherry Trail"
     },
     "n5": {
       "id": "n5",
-      "lat": 45.51443960555556,
-      "lon": -122.71411944546237,
-      "label": "Overlook Trail"
+      "lat": 45.5126019,
+      "lon": -122.71308454708308,
+      "label": "Cherry Trail"
     },
     "n6": {
       "id": "n6",
-      "lat": 45.51269292777778,
-      "lon": -122.71317782506567,
-      "label": "Cherry Trail"
-    },
-    "n7": {
-      "id": "n7",
       "lat": 45.51310108888889,
       "lon": -122.71044017813365,
       "label": "Walnut Trail"
     },
-    "n8": {
-      "id": "n8",
+    "n7": {
+      "id": "n7",
       "lat": 45.51456831388889,
       "lon": -122.70697978434356,
       "label": "trail to parking"
     },
-    "n9": {
-      "id": "n9",
+    "n8": {
+      "id": "n8",
       "lat": 45.51852601388889,
       "lon": -122.71153580738596,
       "label": "Japanese Garden Trail"
     },
+    "n9": {
+      "id": "n9",
+      "lat": 45.517743825,
+      "lon": -122.71491988633329,
+      "label": "Oak Trail"
+    },
     "n10": {
       "id": "n10",
-      "lat": 45.51836792222222,
-      "lon": -122.71504123964239,
-      "label": "unmarked trail"
-    },
-    "n11": {
-      "id": "n11",
       "lat": 45.519629441666666,
       "lon": -122.71661754243475,
       "label": "Bray Lane"
     },
-    "n12": {
-      "id": "n12",
+    "n11": {
+      "id": "n11",
       "lat": 45.51946283611111,
       "lon": -122.71801619171495,
       "label": "White Pine Trail"
     },
-    "n13": {
-      "id": "n13",
+    "n12": {
+      "id": "n12",
       "lat": 45.523170977777774,
       "lon": -122.71797598850576,
       "label": "pumphouse road crossing"
     },
-    "n14": {
-      "id": "n14",
+    "n13": {
+      "id": "n13",
       "lat": 45.52474463888889,
       "lon": -122.71776482817876,
       "label": "edge of road to Pittock Mansion"
     },
-    "n15": {
-      "id": "n15",
+    "n14": {
+      "id": "n14",
       "lat": 45.5276522,
       "lon": -122.71848670836036,
       "label": "Upper MacLeay Trail"
     },
-    "n16": {
-      "id": "n16",
+    "n15": {
+      "id": "n15",
       "lat": 45.528826525,
       "lon": -122.71951453198037,
       "label": "Cumberland Trail"
     },
+    "n16": {
+      "id": "n16",
+      "lat": 45.52679352777778,
+      "lon": -122.72656744491103,
+      "label": "edge of Cornell Road"
+    },
     "n17": {
       "id": "n17",
-      "lat": 45.526644491666666,
-      "lon": -122.7261405318012,
-      "label": "Upper MacLeay Trail"
-    },
-    "n18": {
-      "id": "n18",
       "lat": 45.52812384722222,
       "lon": -122.72507642849313,
       "label": "Lower MacLeay Trail"
     },
-    "n19": {
-      "id": "n19",
+    "n18": {
+      "id": "n18",
       "lat": 45.53284584722222,
       "lon": -122.7202122788485,
       "label": "Holman Lane"
     },
-    "n20": {
-      "id": "n20",
+    "n19": {
+      "id": "n19",
       "lat": 45.53730695833333,
       "lon": -122.72141842060849,
       "label": "Aspen Trail"
     },
-    "n21": {
-      "id": "n21",
+    "n20": {
+      "id": "n20",
       "lat": 45.535215525,
       "lon": -122.72556212325931,
       "label": "Parkview Trail"
     },
-    "n22": {
-      "id": "n22",
+    "n21": {
+      "id": "n21",
       "lat": 45.53526421388889,
       "lon": -122.7304971049956,
       "label": "Birch Trail"
     },
-    "n23": {
-      "id": "n23",
+    "n22": {
+      "id": "n22",
       "lat": 45.53803257222222,
       "lon": -122.73027370855627,
       "label": "Wild Cherry Trail"
     },
-    "n24": {
-      "id": "n24",
+    "n23": {
+      "id": "n23",
       "lat": 45.544565827777774,
       "lon": -122.73029599929492,
       "label": "Dogwood Trail"
     },
-    "n25": {
-      "id": "n25",
+    "n24": {
+      "id": "n24",
       "lat": 45.540593369444444,
       "lon": -122.7372373786345,
       "label": "trailhead: NW 53rd: Wildwood Trail"
     },
+    "n25": {
+      "id": "n25",
+      "lat": 45.542856549999996,
+      "lon": -122.73886408588358,
+      "label": "Alder Trail (2nd \"Y\")"
+    },
     "n26": {
       "id": "n26",
-      "lat": 45.54282253333333,
-      "lon": -122.73877300186011,
-      "label": "Alder Trail (1st \"Y\")"
-    },
-    "n27": {
-      "id": "n27",
       "lat": 45.54909615555555,
       "lon": -122.74398986826736,
       "label": "Morak Trail"
     },
-    "n28": {
-      "id": "n28",
+    "n27": {
+      "id": "n27",
       "lat": 45.552207886111105,
       "lon": -122.74670311026043,
       "label": "centerline of Fire Lane 1"
     },
-    "n29": {
-      "id": "n29",
+    "n28": {
+      "id": "n28",
       "lat": 45.54874228055555,
       "lon": -122.75156372821077,
       "label": "link to Nature Trail"
     },
-    "n30": {
-      "id": "n30",
+    "n29": {
+      "id": "n29",
       "lat": 45.54973440833333,
       "lon": -122.75448839299216,
       "label": "Chestnut Trail"
     },
-    "n31": {
-      "id": "n31",
+    "n30": {
+      "id": "n30",
       "lat": 45.55212345277778,
       "lon": -122.75820641517242,
       "label": "centerline of Fire Lane 2"
     },
-    "n32": {
-      "id": "n32",
+    "n31": {
+      "id": "n31",
       "lat": 45.553907152777775,
       "lon": -122.76093188766329,
       "label": "Maple Link"
     },
-    "n33": {
-      "id": "n33",
+    "n32": {
+      "id": "n32",
       "lat": 45.555019877777774,
       "lon": -122.76054534502121,
       "label": "Fire Lane 3"
     },
-    "n34": {
-      "id": "n34",
+    "n33": {
+      "id": "n33",
       "lat": 45.55796892222222,
       "lon": -122.76238459259316,
       "label": "Koenig Trail"
     },
+    "n34": {
+      "id": "n34",
+      "lat": 45.56228187222222,
+      "lon": -122.76818497796178,
+      "label": "edge of powerline corridor"
+    },
     "n35": {
       "id": "n35",
-      "lat": 45.562171219444444,
-      "lon": -122.76824072078017,
-      "label": "edge of powerline corridor"
+      "lat": 45.564887533333334,
+      "lon": -122.76996437135242,
+      "label": "edge of Saltzman"
     },
     "n36": {
       "id": "n36",
-      "lat": 45.564754261111105,
-      "lon": -122.76990570764656,
-      "label": "edge of Saltzman"
-    },
-    "n37": {
-      "id": "n37",
       "lat": 45.56709060833334,
       "lon": -122.77124654323585,
       "label": "Fire Lane 5"
     },
-    "n38": {
-      "id": "n38",
+    "n37": {
+      "id": "n37",
       "lat": 45.570735725000006,
       "lon": -122.77740998487546,
       "label": "Wiregate Trail"
     },
-    "n39": {
-      "id": "n39",
+    "n38": {
+      "id": "n38",
       "lat": 45.571651025,
       "lon": -122.7832396466831,
       "label": "Trillium Trail"
     },
-    "n40": {
-      "id": "n40",
+    "n39": {
+      "id": "n39",
       "lat": 45.572742197222226,
       "lon": -122.76976834089434,
       "label": "Fire Lane 7"
     },
-    "n41": {
-      "id": "n41",
+    "n40": {
+      "id": "n40",
       "lat": 45.57586283333334,
       "lon": -122.77070530136504,
       "label": "Fire Lane 7A"
     },
-    "n42": {
-      "id": "n42",
+    "n41": {
+      "id": "n41",
       "lat": 45.57854105277778,
       "lon": -122.77477616476965,
       "label": "Ridge Trail"
     },
+    "n42": {
+      "id": "n42",
+      "lat": 45.57757029166667,
+      "lon": -122.78315861147881,
+      "label": "Hardesty Trail"
+    },
     "n43": {
       "id": "n43",
-      "lat": 45.57706016666667,
-      "lon": -122.78301591996784,
-      "label": "Hardesty Trail"
+      "lat": 45.57852143888889,
+      "lon": -122.78547152760022,
+      "label": "edge of road, Springville"
     },
     "n44": {
       "id": "n44",
-      "lat": 45.57869637777778,
-      "lon": -122.78529137692382,
-      "label": "edge of road, Springville"
-    },
-    "n45": {
-      "id": "n45",
       "lat": 45.58323471388889,
       "lon": -122.79055695935511,
       "label": "Waterline Trail"
     },
-    "n46": {
-      "id": "n46",
+    "n45": {
+      "id": "n45",
       "lat": 45.58750783055556,
       "lon": -122.7930798708225,
       "label": "Cannon Trail"
     },
-    "n47": {
-      "id": "n47",
-      "lat": 45.58727817777778,
-      "lon": -122.79409521355281,
-      "label": "edge of parking lot"
-    },
-    "n48": {
-      "id": "n48",
+    "n46": {
+      "id": "n46",
       "lat": 45.58768345833334,
       "lon": -122.79733781349556,
       "label": "Fire Lane 8"
     },
-    "n49": {
-      "id": "n49",
+    "n47": {
+      "id": "n47",
       "lat": 45.590397530555556,
       "lon": -122.8004794655237,
       "label": "Fire Lane 10"
     },
-    "n50": {
-      "id": "n50",
+    "n48": {
+      "id": "n48",
       "lat": 45.59209770277778,
       "lon": -122.80100681777573,
       "label": "parking access trail"
     },
-    "n51": {
-      "id": "n51",
+    "n49": {
+      "id": "n49",
       "lat": 45.59543728888889,
       "lon": -122.80084304285522,
       "label": "Newton Road access trail"
     },
-    "n52": {
-      "id": "n52",
+    "n50": {
+      "id": "n50",
       "lat": 45.59968390555556,
       "lon": -122.80044943968852,
       "label": "Newton Road"
     },
-    "n53": {
-      "id": "n53",
+    "n51": {
+      "id": "n51",
       "lat": 45.59675165,
       "lon": -122.8096506088623,
       "label": "edge of BPA Road"
     },
-    "n54": {
-      "id": "n54",
+    "n52": {
+      "id": "n52",
       "lat": 45.60148658888889,
       "lon": -122.81302473127155,
       "label": "Fire Lane 15"
     },
-    "n55": {
-      "id": "n55",
+    "n53": {
+      "id": "n53",
       "lat": 45.605641633333335,
       "lon": -122.82336240022909,
       "label": "Newberry Road"
     },
-    "n56": {
-      "id": "n56",
+    "n54": {
+      "id": "n54",
       "lat": 45.53915143611111,
       "lon": -122.72524096279344,
       "label": "Thurman: Leif Erikson Drive"
     },
-    "n57": {
-      "id": "n57",
+    "n55": {
+      "id": "n55",
       "lat": 45.540460833333334,
       "lon": -122.72626117885926,
       "label": "WildCherry Trail"
     },
-    "n58": {
-      "id": "n58",
+    "n56": {
+      "id": "n56",
       "lat": 45.54623336666666,
       "lon": -122.73080765790267,
       "label": "Dogwood Trail"
     },
-    "n59": {
-      "id": "n59",
+    "n57": {
+      "id": "n57",
       "lat": 45.54718518055555,
       "lon": -122.73563616291167,
       "label": "Alder Trail"
     },
-    "n60": {
-      "id": "n60",
+    "n58": {
+      "id": "n58",
       "lat": 45.55728784444444,
       "lon": -122.74898582428209,
       "label": "Fire Lane 1"
     },
-    "n61": {
-      "id": "n61",
-      "lat": 45.552898255555554,
-      "lon": -122.75297001379587,
-      "label": "Nature Trail"
+    "n59": {
+      "id": "n59",
+      "lat": 45.552787841666664,
+      "lon": -122.75321691745862,
+      "label": "Chestnut Trail"
     },
-    "n62": {
-      "id": "n62",
+    "n60": {
+      "id": "n60",
       "lat": 45.55670544444444,
       "lon": -122.75296810549855,
       "label": "Fire Lane 2"
     },
-    "n63": {
-      "id": "n63",
+    "n61": {
+      "id": "n61",
       "lat": 45.55750153333333,
       "lon": -122.75588683517422,
       "label": "Maple Trail crossing"
     },
-    "n64": {
-      "id": "n64",
+    "n62": {
+      "id": "n62",
       "lat": 45.557756499999996,
       "lon": -122.76094042446401,
       "label": "Koenig Trail"
     },
-    "n65": {
-      "id": "n65",
+    "n63": {
+      "id": "n63",
       "lat": 45.56181357777778,
       "lon": -122.7603917692038,
       "label": "Fire Lane 4"
     },
-    "n66": {
-      "id": "n66",
+    "n64": {
+      "id": "n64",
       "lat": 45.561828355555555,
       "lon": -122.76551292213288,
       "label": "Cleator Trail"
     },
-    "n67": {
-      "id": "n67",
+    "n65": {
+      "id": "n65",
       "lat": 45.569356247222224,
       "lon": -122.76314148648873,
       "label": "Saltzman Road"
     },
-    "n68": {
-      "id": "n68",
+    "n66": {
+      "id": "n66",
       "lat": 45.56841595,
       "lon": -122.76753895016749,
       "label": "Maple Trail"
     },
-    "n69": {
-      "id": "n69",
+    "n67": {
+      "id": "n67",
       "lat": 45.566838286111114,
       "lon": -122.76952475394955,
       "label": "Fire Lane 5"
     },
-    "n70": {
-      "id": "n70",
+    "n68": {
+      "id": "n68",
       "lat": 45.569794280555556,
       "lon": -122.77352248356051,
       "label": "Wiregate Trail"
     },
-    "n71": {
-      "id": "n71",
+    "n69": {
+      "id": "n69",
       "lat": 45.574062563888894,
       "lon": -122.76724248355148,
       "label": "Fire Lane 7"
     },
-    "n72": {
-      "id": "n72",
+    "n70": {
+      "id": "n70",
       "lat": 45.576754208333334,
       "lon": -122.76814054691663,
       "label": "Fire Lane 7A"
     },
-    "n73": {
-      "id": "n73",
-      "lat": 45.57898350277778,
-      "lon": -122.77125476159358,
+    "n71": {
+      "id": "n71",
+      "lat": 45.57915388888889,
+      "lon": -122.77104642334129,
       "label": "Ridge Trail"
     },
-    "n74": {
-      "id": "n74",
+    "n72": {
+      "id": "n72",
       "lat": 45.57925846666667,
       "lon": -122.77934037220668,
       "label": "Hardesty Trail"
     },
-    "n75": {
-      "id": "n75",
+    "n73": {
+      "id": "n73",
       "lat": 45.58297548888889,
       "lon": -122.78282209595125,
       "label": "Springville Road"
     },
-    "n76": {
-      "id": "n76",
+    "n74": {
+      "id": "n74",
       "lat": 45.58465847222222,
       "lon": -122.78463522078341,
       "label": "Waterline Trail"
     },
-    "n77": {
-      "id": "n77",
+    "n75": {
+      "id": "n75",
       "lat": 45.58917877777778,
       "lon": -122.7903461308416,
       "label": "edge of Germantown Rd"
     },
-    "n78": {
-      "id": "n78",
+    "n76": {
+      "id": "n76",
       "lat": 45.54432235611034,
       "lon": -122.74705327878954,
       "label": "53rd Drive, edge of pavement"
     },
-    "n79": {
-      "id": "n79",
+    "n77": {
+      "id": "n77",
       "lat": 45.54520236437622,
       "lon": -122.74591874862499,
       "label": "trailhead: Forest Lane: Firelane 1"
     },
-    "n80": {
-      "id": "n80",
+    "n78": {
+      "id": "n78",
       "lat": 45.55254099558286,
       "lon": -122.74800803901329,
       "label": "Nature Trail"
     },
-    "n81": {
-      "id": "n81",
+    "n79": {
+      "id": "n79",
       "lat": 45.5472061665244,
       "lon": -122.76450260250554,
       "label": "Fire Lane 2 start"
     },
-    "n82": {
-      "id": "n82",
+    "n80": {
+      "id": "n80",
       "lat": 45.55285857100203,
       "lon": -122.77148700384333,
       "label": "Fire Lane 3 start"
     },
-    "n83": {
-      "id": "n83",
+    "n81": {
+      "id": "n81",
       "lat": 45.56127602604877,
       "lon": -122.78508936207662,
       "label": "Upper Saltzman & Firelane 5"
     },
-    "n84": {
-      "id": "n84",
+    "n82": {
+      "id": "n82",
       "lat": 45.562136525223934,
       "lon": -122.7836464981902,
       "label": "trailhead: Upper Saltzman & Firelane 5"
     },
-    "n85": {
-      "id": "n85",
+    "n83": {
+      "id": "n83",
       "lat": 45.56226513230143,
       "lon": -122.78112252391291,
       "label": "unnamed side trail"
     },
-    "n86": {
-      "id": "n86",
+    "n84": {
+      "id": "n84",
       "lat": 45.56663665,
       "lon": -122.75877754612078,
       "label": "Maple Trail"
     },
-    "n87": {
-      "id": "n87",
-      "lat": 45.566617011111106,
-      "lon": -122.75350865121341,
-      "label": "trailhead: Lower Saltzman Road"
+    "n85": {
+      "id": "n85",
+      "lat": 45.566305344444444,
+      "lon": -122.75299271885595,
+      "label": "Lower Saltzman Road"
     },
-    "n88": {
-      "id": "n88",
+    "n86": {
+      "id": "n86",
       "lat": 45.56332745403106,
       "lon": -122.75679111932563,
       "label": "Maple Trail"
     },
-    "n89": {
-      "id": "n89",
+    "n87": {
+      "id": "n87",
       "lat": 45.56378345384514,
       "lon": -122.77975287691082,
       "label": "gravel road goes uphill"
     },
-    "n90": {
-      "id": "n90",
+    "n88": {
+      "id": "n88",
       "lat": 45.564099805043384,
       "lon": -122.77709841349568,
       "label": "trail runs steeply up to powerline right of way"
     },
-    "n91": {
-      "id": "n91",
+    "n89": {
+      "id": "n89",
       "lat": 45.57452043055556,
       "lon": -122.78797824476636,
       "label": "Upper Springville Road"
     },
-    "n92": {
-      "id": "n92",
+    "n90": {
+      "id": "n90",
       "lat": 45.574390836111114,
       "lon": -122.78552704526992,
       "label": "Hardesty Trail"
     },
-    "n93": {
-      "id": "n93",
+    "n91": {
+      "id": "n91",
       "lat": 45.57399329444445,
       "lon": -122.78447441181282,
       "label": "Trillium Trail"
     },
-    "n94": {
-      "id": "n94",
+    "n92": {
+      "id": "n92",
       "lat": 45.57429721388889,
       "lon": -122.7807834347505,
       "label": "Ridge Trail"
     },
-    "n95": {
-      "id": "n95",
+    "n93": {
+      "id": "n93",
       "lat": 45.57287043611112,
       "lon": -122.77542473043091,
       "label": "Fire Lane 7a"
     },
-    "n96": {
-      "id": "n96",
+    "n94": {
+      "id": "n94",
       "lat": 45.57256640000001,
       "lon": -122.77978185856723,
       "label": "Wildwood Trail"
     },
-    "n97": {
-      "id": "n97",
-      "lat": 45.572616430555556,
-      "lon": -122.7911538074653,
-      "label": "edge of Skyline"
+    "n95": {
+      "id": "n95",
+      "lat": 45.572586819444446,
+      "lon": -122.79116546463248,
+      "label": "Upper Springville Road"
     },
-    "n98": {
-      "id": "n98",
+    "n96": {
+      "id": "n96",
       "lat": 45.573942611111114,
       "lon": -122.78980007475693,
       "label": "trailhead: Upper Springville Road"
     },
-    "n99": {
-      "id": "n99",
+    "n97": {
+      "id": "n97",
       "lat": 45.58557056388889,
       "lon": -122.77600479329637,
       "label": "Springville Road end"
     },
-    "n100": {
-      "id": "n100",
+    "n98": {
+      "id": "n98",
       "lat": 45.58722056111112,
       "lon": -122.79623380894321,
       "label": "edge of road, Germantown"
     },
-    "n101": {
-      "id": "n101",
+    "n99": {
+      "id": "n99",
       "lat": 45.591482230555556,
       "lon": -122.80213515698266,
       "label": "edge parking lot"
     },
-    "n102": {
-      "id": "n102",
+    "n100": {
+      "id": "n100",
       "lat": 45.59111011388889,
       "lon": -122.79877069933647,
       "label": "Keyser Trail"
     },
-    "n103": {
-      "id": "n103",
+    "n101": {
+      "id": "n101",
       "lat": 45.59228510277778,
       "lon": -122.79644961339939,
       "label": "Keyser Trail"
     },
-    "n104": {
-      "id": "n104",
+    "n102": {
+      "id": "n102",
       "lat": 45.59502576111112,
       "lon": -122.79032867910566,
       "label": "Linnton Trail"
     },
-    "n105": {
-      "id": "n105",
+    "n103": {
+      "id": "n103",
       "lat": 45.59472550833333,
       "lon": -122.80296003668653,
       "label": "Wildwood access trail"
     },
-    "n106": {
-      "id": "n106",
+    "n104": {
+      "id": "n104",
       "lat": 45.61113796111111,
       "lon": -122.79712112024191,
       "label": "BPA Road"
     },
-    "n107": {
-      "id": "n107",
+    "n105": {
+      "id": "n105",
       "lat": 45.592669183333335,
       "lon": -122.81470074882732,
       "label": "BPA Road start"
     },
-    "n108": {
-      "id": "n108",
+    "n106": {
+      "id": "n106",
       "lat": 45.60022092777778,
       "lon": -122.80903225966094,
       "label": "Fire Lane 12"
     },
-    "n109": {
-      "id": "n109",
+    "n107": {
+      "id": "n107",
       "lat": 45.60417796111111,
       "lon": -122.81187826768198,
       "label": "Fire Lane 15"
     },
-    "n110": {
-      "id": "n110",
+    "n108": {
+      "id": "n108",
       "lat": 45.616238091666666,
       "lon": -122.80740766158934,
       "label": "NW Creston Road"
     },
-    "n111": {
-      "id": "n111",
+    "n109": {
+      "id": "n109",
       "lat": 45.59623254444445,
       "lon": -122.82359090629024,
       "label": "edge of Skyline"
     },
-    "n112": {
-      "id": "n112",
-      "lat": 45.60007071388889,
-      "lon": -122.81579836314091,
-      "label": "Kielhorn Meadow Trail"
+    "n110": {
+      "id": "n110",
+      "lat": 45.59966885277778,
+      "lon": -122.81551135476641,
+      "label": "high point on Fire Lane 15"
     },
-    "n113": {
-      "id": "n113",
+    "n111": {
+      "id": "n111",
       "lat": 45.60533659722223,
       "lon": -122.80922245347482,
       "label": "BPA Road"
     },
-    "n114": {
-      "id": "n114",
+    "n112": {
+      "id": "n112",
       "lat": 45.61233573888889,
       "lon": -122.80862493634224,
       "label": "Fire Lane 13A"
     },
-    "n115": {
-      "id": "n115",
+    "n113": {
+      "id": "n113",
       "lat": 45.613879986111115,
       "lon": -122.80763302442261,
       "label": "Fire Lane 13 end"
     },
-    "n116": {
-      "id": "n116",
+    "n114": {
+      "id": "n114",
       "lat": 45.61289867777778,
       "lon": -122.80595262716834,
       "label": "Fire Lane 13A end"
     },
-    "n117": {
-      "id": "n117",
+    "n115": {
+      "id": "n115",
       "lat": 45.59290104722223,
       "lon": -122.78302316771068,
       "label": "Fire Lane 9 end"
     },
-    "n118": {
-      "id": "n118",
+    "n116": {
+      "id": "n116",
       "lat": 45.57843078055556,
       "lon": -122.76298800587631,
       "label": "Gasline (overgrown) end"
     },
-    "n119": {
-      "id": "n119",
+    "n117": {
+      "id": "n117",
       "lat": 45.52740918975059,
       "lon": -122.71502945361124,
       "label": "Upper MacLeay / MacLeay / Cumberland / Tunnel end"
     },
-    "n120": {
-      "id": "n120",
+    "n118": {
+      "id": "n118",
       "lat": 45.52948693956616,
       "lon": -122.7149600023038,
       "label": "NW Cumberland Road"
     },
-    "n121": {
-      "id": "n121",
+    "n119": {
+      "id": "n119",
       "lat": 45.530175931086724,
       "lon": -122.71720122082972,
       "label": "edge of parking lot"
     },
-    "n122": {
-      "id": "n122",
-      "lat": 45.53547233935077,
-      "lon": -122.71249670586587,
-      "label": "under Thurman Road bridge"
+    "n120": {
+      "id": "n120",
+      "lat": 45.53583493098071,
+      "lon": -122.71249920094641,
+      "label": "sidewalk at circular road"
     },
-    "n123": {
-      "id": "n123",
+    "n121": {
+      "id": "n121",
       "lat": 45.532692618508676,
       "lon": -122.73168586027865,
       "label": "NW 53rd: Birch Trail"
     },
-    "n124": {
-      "id": "n124",
+    "n122": {
+      "id": "n122",
       "lat": 45.53220852790059,
       "lon": -122.72936079522285,
       "label": "Parkview Trail"
     },
-    "n125": {
-      "id": "n125",
-      "lat": 45.53366071461406,
-      "lon": -122.7186959375653,
-      "label": "trailhead: Holman Lane"
+    "n123": {
+      "id": "n123",
+      "lat": 45.53365437638627,
+      "lon": -122.71843509310274,
+      "label": "Holman Lane"
     },
-    "n126": {
-      "id": "n126",
+    "n124": {
+      "id": "n124",
       "lat": 45.53632135789163,
       "lon": -122.71892190407974,
       "label": "Aspen Trail"
     },
-    "n127": {
-      "id": "n127",
-      "lat": 45.533650703037964,
-      "lon": -122.7327299149148,
-      "label": "trailhead: NW 53rd: Birch Trail"
-    },
-    "n128": {
-      "id": "n128",
+    "n125": {
+      "id": "n125",
       "lat": 45.538619268050375,
       "lon": -122.73389522399867,
       "label": "Wild Cherry Trail"
     },
-    "n129": {
-      "id": "n129",
+    "n126": {
+      "id": "n126",
       "lat": 45.55919902299544,
       "lon": -122.7579474682934,
       "label": "Koenig Trail"
     },
-    "n130": {
-      "id": "n130",
+    "n127": {
+      "id": "n127",
       "lat": 45.55913970617513,
       "lon": -122.76052828894855,
       "label": "edge of bridge (on metal)"
     },
-    "n131": {
-      "id": "n131",
+    "n128": {
+      "id": "n128",
       "lat": 45.58328505555556,
       "lon": -122.76988288669055,
       "label": "Ridge N and Ridge S"
     },
-    "n132": {
-      "id": "n132",
+    "n129": {
+      "id": "n129",
       "lat": 45.58243778055556,
       "lon": -122.76807393736003,
       "label": "Ridge Trail"
     },
-    "n133": {
-      "id": "n133",
+    "n130": {
+      "id": "n130",
       "lat": 45.584370883333335,
       "lon": -122.77023581886509,
       "label": "Ridge N branch end"
     },
-    "n134": {
-      "id": "n134",
+    "n131": {
+      "id": "n131",
       "lat": 45.57493821944445,
       "lon": -122.78684282160924,
       "label": "edge of road, Springville"
     },
-    "n135": {
-      "id": "n135",
+    "n132": {
+      "id": "n132",
       "lat": 45.579693444444445,
       "lon": -122.79662746003675,
       "label": "Willalatin Road start"
     },
-    "n136": {
-      "id": "n136",
+    "n133": {
+      "id": "n133",
       "lat": 45.58027695277778,
       "lon": -122.79554587137042,
-      "label": "Waterline Trail"
+      "label": "Willalatin Road"
     },
-    "n137": {
-      "id": "n137",
+    "n134": {
+      "id": "n134",
       "lat": 45.58834705833333,
       "lon": -122.77882195838886,
       "label": "Tolinda end"
     },
-    "n138": {
-      "id": "n138",
-      "lat": 45.598339736111114,
-      "lon": -122.8153203794054,
-      "label": "edge of meadow"
+    "n135": {
+      "id": "n135",
+      "lat": 45.597574075000004,
+      "lon": -122.8152965421549,
+      "label": "Kielhorn Meadow end"
     },
-    "n139": {
-      "id": "n139",
+    "n136": {
+      "id": "n136",
       "lat": 45.596311125,
       "lon": -122.7843921527529,
       "label": "parking area"
@@ -840,30 +822,18 @@
       {
         "node": "n1",
         "segment": "seg-1",
-        "distance": 0.04,
+        "distance": 0.05,
         "trailType": "wildwood"
       },
       {
         "node": "n1",
         "segment": "seg-1",
-        "distance": 0.04,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n1",
-        "segment": "seg-2",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n1",
-        "segment": "seg-2",
-        "distance": 0.01,
+        "distance": 0.05,
         "trailType": "wildwood"
       },
       {
         "node": "n2",
-        "segment": "seg-3",
+        "segment": "seg-2",
         "distance": 0.16,
         "trailType": "wildwood"
       }
@@ -871,25 +841,25 @@
     "n2": [
       {
         "node": "n1",
-        "segment": "seg-3",
+        "segment": "seg-2",
         "distance": 0.16,
         "trailType": "wildwood"
       },
       {
         "node": "n3",
-        "segment": "seg-4",
+        "segment": "seg-3",
         "distance": 0.15,
         "trailType": "wildwood"
       },
       {
         "node": "n2",
-        "segment": "seg-161",
+        "segment": "seg-140",
         "distance": 0.06,
         "trailType": "connector"
       },
       {
         "node": "n2",
-        "segment": "seg-161",
+        "segment": "seg-140",
         "distance": 0.06,
         "trailType": "connector"
       }
@@ -897,727 +867,661 @@
     "n3": [
       {
         "node": "n2",
-        "segment": "seg-4",
+        "segment": "seg-3",
         "distance": 0.15,
         "trailType": "wildwood"
       },
       {
         "node": "n4",
-        "segment": "seg-5",
-        "distance": 0.06,
+        "segment": "seg-4",
+        "distance": 0.17,
         "trailType": "wildwood"
       }
     ],
     "n4": [
       {
         "node": "n3",
-        "segment": "seg-5",
-        "distance": 0.06,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n4",
-        "segment": "seg-6",
-        "distance": 0.03,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n4",
-        "segment": "seg-6",
-        "distance": 0.03,
+        "segment": "seg-4",
+        "distance": 0.17,
         "trailType": "wildwood"
       },
       {
         "node": "n5",
-        "segment": "seg-7",
-        "distance": 0.03,
+        "segment": "seg-5",
+        "distance": 0.19,
         "trailType": "wildwood"
       }
     ],
     "n5": [
       {
         "node": "n4",
-        "segment": "seg-7",
-        "distance": 0.03,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n5",
-        "segment": "seg-8",
-        "distance": 0.02,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n5",
-        "segment": "seg-8",
-        "distance": 0.02,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n5",
-        "segment": "seg-9",
-        "distance": 0.03,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n5",
-        "segment": "seg-9",
-        "distance": 0.03,
+        "segment": "seg-5",
+        "distance": 0.19,
         "trailType": "wildwood"
       },
       {
         "node": "n6",
-        "segment": "seg-10",
-        "distance": 0.18,
+        "segment": "seg-6",
+        "distance": 0.14,
         "trailType": "wildwood"
       }
     ],
     "n6": [
       {
         "node": "n5",
-        "segment": "seg-10",
-        "distance": 0.18,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n6",
-        "segment": "seg-11",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n6",
-        "segment": "seg-11",
-        "distance": 0.01,
+        "segment": "seg-6",
+        "distance": 0.14,
         "trailType": "wildwood"
       },
       {
         "node": "n7",
-        "segment": "seg-12",
-        "distance": 0.14,
+        "segment": "seg-7",
+        "distance": 0.48,
         "trailType": "wildwood"
       }
     ],
     "n7": [
       {
         "node": "n6",
-        "segment": "seg-12",
-        "distance": 0.14,
+        "segment": "seg-7",
+        "distance": 0.48,
         "trailType": "wildwood"
       },
       {
         "node": "n8",
-        "segment": "seg-13",
-        "distance": 0.48,
+        "segment": "seg-8",
+        "distance": 0.63,
         "trailType": "wildwood"
       }
     ],
     "n8": [
       {
         "node": "n7",
-        "segment": "seg-13",
-        "distance": 0.48,
+        "segment": "seg-8",
+        "distance": 0.63,
         "trailType": "wildwood"
       },
       {
         "node": "n9",
-        "segment": "seg-14",
-        "distance": 0.63,
+        "segment": "seg-9",
+        "distance": 0.35,
         "trailType": "wildwood"
       }
     ],
     "n9": [
       {
         "node": "n8",
-        "segment": "seg-14",
-        "distance": 0.63,
+        "segment": "seg-9",
+        "distance": 0.35,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n9",
+        "segment": "seg-10",
+        "distance": 0.13,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n9",
+        "segment": "seg-10",
+        "distance": 0.13,
         "trailType": "wildwood"
       },
       {
         "node": "n10",
-        "segment": "seg-15",
-        "distance": 0.3,
+        "segment": "seg-11",
+        "distance": 0.15,
         "trailType": "wildwood"
       }
     ],
     "n10": [
       {
         "node": "n9",
-        "segment": "seg-15",
-        "distance": 0.3,
+        "segment": "seg-11",
+        "distance": 0.15,
         "trailType": "wildwood"
       },
       {
         "node": "n10",
-        "segment": "seg-16",
-        "distance": 0.05,
+        "segment": "seg-12",
+        "distance": 0.11,
         "trailType": "wildwood"
       },
       {
         "node": "n10",
-        "segment": "seg-16",
-        "distance": 0.05,
+        "segment": "seg-12",
+        "distance": 0.11,
         "trailType": "wildwood"
       },
       {
         "node": "n10",
-        "segment": "seg-17",
-        "distance": 0.13,
+        "segment": "seg-13",
+        "distance": 0.09,
         "trailType": "wildwood"
       },
       {
         "node": "n10",
-        "segment": "seg-17",
-        "distance": 0.13,
+        "segment": "seg-13",
+        "distance": 0.09,
         "trailType": "wildwood"
       },
       {
         "node": "n11",
-        "segment": "seg-18",
-        "distance": 0.15,
+        "segment": "seg-14",
+        "distance": 0.06,
         "trailType": "wildwood"
+      },
+      {
+        "node": "n10",
+        "segment": "seg-141",
+        "distance": 0.01,
+        "trailType": "connector"
+      },
+      {
+        "node": "n10",
+        "segment": "seg-141",
+        "distance": 0.01,
+        "trailType": "connector"
+      },
+      {
+        "node": "n10",
+        "segment": "seg-142",
+        "distance": 0.01,
+        "trailType": "connector"
+      },
+      {
+        "node": "n10",
+        "segment": "seg-142",
+        "distance": 0.01,
+        "trailType": "connector"
       }
     ],
     "n11": [
       {
         "node": "n10",
-        "segment": "seg-18",
-        "distance": 0.15,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-19",
-        "distance": 0.11,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-19",
-        "distance": 0.11,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-20",
-        "distance": 0.09,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-20",
-        "distance": 0.09,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n12",
-        "segment": "seg-21",
+        "segment": "seg-14",
         "distance": 0.06,
         "trailType": "wildwood"
       },
       {
-        "node": "n11",
-        "segment": "seg-162",
-        "distance": 0.01,
-        "trailType": "connector"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-162",
-        "distance": 0.01,
-        "trailType": "connector"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-163",
-        "distance": 0.01,
-        "trailType": "connector"
-      },
-      {
-        "node": "n11",
-        "segment": "seg-163",
-        "distance": 0.01,
-        "trailType": "connector"
+        "node": "n12",
+        "segment": "seg-15",
+        "distance": 0.35,
+        "trailType": "wildwood"
       }
     ],
     "n12": [
       {
         "node": "n11",
-        "segment": "seg-21",
-        "distance": 0.06,
+        "segment": "seg-15",
+        "distance": 0.35,
         "trailType": "wildwood"
       },
       {
         "node": "n13",
-        "segment": "seg-22",
-        "distance": 0.35,
+        "segment": "seg-16",
+        "distance": 0.38,
         "trailType": "wildwood"
       }
     ],
     "n13": [
       {
         "node": "n12",
-        "segment": "seg-22",
-        "distance": 0.35,
+        "segment": "seg-16",
+        "distance": 0.38,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n13",
+        "segment": "seg-17",
+        "distance": 0.13,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n13",
+        "segment": "seg-17",
+        "distance": 0.13,
         "trailType": "wildwood"
       },
       {
         "node": "n14",
-        "segment": "seg-23",
-        "distance": 0.38,
+        "segment": "seg-18",
+        "distance": 0.41,
         "trailType": "wildwood"
       }
     ],
     "n14": [
       {
         "node": "n13",
-        "segment": "seg-23",
-        "distance": 0.38,
+        "segment": "seg-18",
+        "distance": 0.41,
         "trailType": "wildwood"
       },
       {
         "node": "n14",
-        "segment": "seg-24",
-        "distance": 0.13,
+        "segment": "seg-19",
+        "distance": 0.09,
         "trailType": "wildwood"
       },
       {
         "node": "n14",
-        "segment": "seg-24",
-        "distance": 0.13,
+        "segment": "seg-19",
+        "distance": 0.09,
         "trailType": "wildwood"
       },
       {
         "node": "n15",
-        "segment": "seg-25",
-        "distance": 0.41,
+        "segment": "seg-20",
+        "distance": 0.1,
         "trailType": "wildwood"
+      },
+      {
+        "node": "n16",
+        "segment": "seg-143",
+        "distance": 0.52,
+        "trailType": "trail"
+      },
+      {
+        "node": "n117",
+        "segment": "seg-144",
+        "distance": 0.27,
+        "trailType": "trail"
+      },
+      {
+        "node": "n117",
+        "segment": "seg-145",
+        "distance": 0.28,
+        "trailType": "trail"
       }
     ],
     "n15": [
       {
         "node": "n14",
-        "segment": "seg-25",
-        "distance": 0.41,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n15",
-        "segment": "seg-26",
-        "distance": 0.09,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n15",
-        "segment": "seg-26",
-        "distance": 0.09,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n16",
-        "segment": "seg-27",
+        "segment": "seg-20",
         "distance": 0.1,
         "trailType": "wildwood"
       },
       {
-        "node": "n17",
-        "segment": "seg-164",
-        "distance": 0.52,
-        "trailType": "trail"
+        "node": "n16",
+        "segment": "seg-21",
+        "distance": 0.47,
+        "trailType": "wildwood"
       },
       {
-        "node": "n119",
-        "segment": "seg-165",
-        "distance": 0.27,
-        "trailType": "trail"
-      },
-      {
-        "node": "n119",
-        "segment": "seg-166",
-        "distance": 0.28,
+        "node": "n117",
+        "segment": "seg-146",
+        "distance": 0.25,
         "trailType": "trail"
       }
     ],
     "n16": [
       {
         "node": "n15",
-        "segment": "seg-27",
-        "distance": 0.1,
+        "segment": "seg-21",
+        "distance": 0.47,
         "trailType": "wildwood"
       },
       {
         "node": "n17",
-        "segment": "seg-28",
-        "distance": 0.43,
+        "segment": "seg-22",
+        "distance": 0.53,
         "trailType": "wildwood"
       },
       {
-        "node": "n119",
-        "segment": "seg-167",
-        "distance": 0.25,
+        "node": "n14",
+        "segment": "seg-143",
+        "distance": 0.52,
         "trailType": "trail"
       }
     ],
     "n17": [
       {
         "node": "n16",
-        "segment": "seg-28",
-        "distance": 0.43,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n17",
-        "segment": "seg-29",
-        "distance": 0.02,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n17",
-        "segment": "seg-29",
-        "distance": 0.02,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n17",
-        "segment": "seg-30",
-        "distance": 0.02,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n17",
-        "segment": "seg-30",
-        "distance": 0.02,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n18",
-        "segment": "seg-31",
+        "segment": "seg-22",
         "distance": 0.53,
         "trailType": "wildwood"
       },
       {
-        "node": "n15",
-        "segment": "seg-164",
-        "distance": 0.52,
+        "node": "n18",
+        "segment": "seg-23",
+        "distance": 0.44,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n120",
+        "segment": "seg-149",
+        "distance": 0.86,
         "trailType": "trail"
       }
     ],
     "n18": [
       {
         "node": "n17",
-        "segment": "seg-31",
-        "distance": 0.53,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n19",
-        "segment": "seg-32",
+        "segment": "seg-23",
         "distance": 0.44,
         "trailType": "wildwood"
       },
       {
+        "node": "n19",
+        "segment": "seg-24",
+        "distance": 0.43,
+        "trailType": "wildwood"
+      },
+      {
         "node": "n122",
-        "segment": "seg-170",
-        "distance": 0.83,
+        "segment": "seg-151",
+        "distance": 0.62,
+        "trailType": "trail"
+      },
+      {
+        "node": "n123",
+        "segment": "seg-152",
+        "distance": 0.11,
         "trailType": "trail"
       }
     ],
     "n19": [
       {
         "node": "n18",
-        "segment": "seg-32",
-        "distance": 0.44,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n20",
-        "segment": "seg-33",
+        "segment": "seg-24",
         "distance": 0.43,
         "trailType": "wildwood"
       },
       {
-        "node": "n124",
-        "segment": "seg-173",
-        "distance": 0.62,
-        "trailType": "trail"
+        "node": "n20",
+        "segment": "seg-25",
+        "distance": 0.48,
+        "trailType": "wildwood"
       },
       {
-        "node": "n125",
-        "segment": "seg-174",
-        "distance": 0.1,
+        "node": "n124",
+        "segment": "seg-153",
+        "distance": 0.22,
         "trailType": "trail"
       }
     ],
     "n20": [
       {
         "node": "n19",
-        "segment": "seg-33",
-        "distance": 0.43,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n21",
-        "segment": "seg-34",
+        "segment": "seg-25",
         "distance": 0.48,
         "trailType": "wildwood"
       },
       {
-        "node": "n126",
-        "segment": "seg-176",
-        "distance": 0.22,
+        "node": "n21",
+        "segment": "seg-26",
+        "distance": 0.67,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n122",
+        "segment": "seg-154",
+        "distance": 0.41,
         "trailType": "trail"
       }
     ],
     "n21": [
       {
         "node": "n20",
-        "segment": "seg-34",
-        "distance": 0.48,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n22",
-        "segment": "seg-35",
+        "segment": "seg-26",
         "distance": 0.67,
         "trailType": "wildwood"
       },
       {
-        "node": "n124",
-        "segment": "seg-177",
-        "distance": 0.41,
+        "node": "n22",
+        "segment": "seg-27",
+        "distance": 0.38,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n121",
+        "segment": "seg-155",
+        "distance": 0.21,
         "trailType": "trail"
       }
     ],
     "n22": [
       {
         "node": "n21",
-        "segment": "seg-35",
-        "distance": 0.67,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n23",
-        "segment": "seg-36",
+        "segment": "seg-27",
         "distance": 0.38,
         "trailType": "wildwood"
       },
       {
-        "node": "n127",
-        "segment": "seg-178",
-        "distance": 0.2,
+        "node": "n23",
+        "segment": "seg-28",
+        "distance": 0.59,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n125",
+        "segment": "seg-159",
+        "distance": 0.3,
+        "trailType": "trail"
+      },
+      {
+        "node": "n55",
+        "segment": "seg-160",
+        "distance": 0.55,
         "trailType": "trail"
       }
     ],
     "n23": [
       {
         "node": "n22",
-        "segment": "seg-36",
-        "distance": 0.38,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n24",
-        "segment": "seg-37",
+        "segment": "seg-28",
         "distance": 0.59,
         "trailType": "wildwood"
       },
       {
-        "node": "n128",
-        "segment": "seg-184",
-        "distance": 0.28,
+        "node": "n24",
+        "segment": "seg-29",
+        "distance": 0.73,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n125",
+        "segment": "seg-157",
+        "distance": 0.58,
         "trailType": "trail"
       },
       {
-        "node": "n57",
-        "segment": "seg-185",
-        "distance": 0.55,
+        "node": "n56",
+        "segment": "seg-158",
+        "distance": 0.34,
         "trailType": "trail"
       }
     ],
     "n24": [
       {
         "node": "n23",
-        "segment": "seg-37",
-        "distance": 0.59,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n25",
-        "segment": "seg-38",
+        "segment": "seg-29",
         "distance": 0.73,
         "trailType": "wildwood"
       },
       {
-        "node": "n128",
-        "segment": "seg-181",
-        "distance": 0.58,
-        "trailType": "trail"
+        "node": "n25",
+        "segment": "seg-30",
+        "distance": 0.26,
+        "trailType": "wildwood"
       },
       {
-        "node": "n58",
-        "segment": "seg-182",
-        "distance": 0.34,
+        "node": "n125",
+        "segment": "seg-161",
+        "distance": 0.17,
         "trailType": "trail"
       }
     ],
     "n25": [
       {
         "node": "n24",
-        "segment": "seg-38",
-        "distance": 0.73,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n26",
-        "segment": "seg-39",
+        "segment": "seg-30",
         "distance": 0.26,
         "trailType": "wildwood"
       },
       {
-        "node": "n128",
-        "segment": "seg-186",
-        "distance": 0.16,
+        "node": "n26",
+        "segment": "seg-31",
+        "distance": 1.2,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n57",
+        "segment": "seg-163",
+        "distance": 0.89,
         "trailType": "trail"
       }
     ],
     "n26": [
       {
         "node": "n25",
-        "segment": "seg-39",
-        "distance": 0.26,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n26",
-        "segment": "seg-40",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n26",
-        "segment": "seg-40",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n27",
-        "segment": "seg-41",
+        "segment": "seg-31",
         "distance": 1.2,
         "trailType": "wildwood"
       },
       {
-        "node": "n59",
-        "segment": "seg-188",
-        "distance": 0.89,
-        "trailType": "trail"
+        "node": "n27",
+        "segment": "seg-32",
+        "distance": 0.5,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n26",
+        "segment": "seg-162",
+        "distance": 0.07,
+        "trailType": "connector"
+      },
+      {
+        "node": "n26",
+        "segment": "seg-162",
+        "distance": 0.07,
+        "trailType": "connector"
       }
     ],
     "n27": [
       {
         "node": "n26",
-        "segment": "seg-41",
-        "distance": 1.2,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n28",
-        "segment": "seg-42",
+        "segment": "seg-32",
         "distance": 0.5,
         "trailType": "wildwood"
       },
       {
-        "node": "n27",
-        "segment": "seg-187",
-        "distance": 0.07,
-        "trailType": "connector"
+        "node": "n28",
+        "segment": "seg-33",
+        "distance": 0.64,
+        "trailType": "wildwood"
       },
       {
-        "node": "n27",
-        "segment": "seg-187",
+        "node": "n77",
+        "segment": "seg-85",
+        "distance": 0.55,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n78",
+        "segment": "seg-86",
         "distance": 0.07,
-        "trailType": "connector"
+        "trailType": "firelane"
       }
     ],
     "n28": [
       {
         "node": "n27",
-        "segment": "seg-42",
-        "distance": 0.5,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n29",
-        "segment": "seg-43",
+        "segment": "seg-33",
         "distance": 0.64,
         "trailType": "wildwood"
       },
       {
-        "node": "n79",
-        "segment": "seg-102",
-        "distance": 0.55,
-        "trailType": "firelane"
+        "node": "n29",
+        "segment": "seg-34",
+        "distance": 0.3,
+        "trailType": "wildwood"
       },
       {
-        "node": "n80",
-        "segment": "seg-103",
-        "distance": 0.07,
-        "trailType": "firelane"
+        "node": "n78",
+        "segment": "seg-164",
+        "distance": 0.63,
+        "trailType": "trail"
+      },
+      {
+        "node": "n59",
+        "segment": "seg-165",
+        "distance": 0.28,
+        "trailType": "trail"
+      },
+      {
+        "node": "n28",
+        "segment": "seg-166",
+        "distance": 0.04,
+        "trailType": "connector"
+      },
+      {
+        "node": "n28",
+        "segment": "seg-166",
+        "distance": 0.04,
+        "trailType": "connector"
       }
     ],
     "n29": [
       {
         "node": "n28",
-        "segment": "seg-43",
-        "distance": 0.64,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n30",
-        "segment": "seg-44",
+        "segment": "seg-34",
         "distance": 0.3,
         "trailType": "wildwood"
       },
       {
-        "node": "n80",
-        "segment": "seg-189",
-        "distance": 0.63,
+        "node": "n30",
+        "segment": "seg-35",
+        "distance": 0.6,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n59",
+        "segment": "seg-167",
+        "distance": 0.5,
         "trailType": "trail"
-      },
-      {
-        "node": "n61",
-        "segment": "seg-190",
-        "distance": 0.28,
-        "trailType": "trail"
-      },
-      {
-        "node": "n29",
-        "segment": "seg-191",
-        "distance": 0.04,
-        "trailType": "connector"
-      },
-      {
-        "node": "n29",
-        "segment": "seg-191",
-        "distance": 0.04,
-        "trailType": "connector"
       }
     ],
     "n30": [
       {
         "node": "n29",
-        "segment": "seg-44",
-        "distance": 0.3,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n31",
-        "segment": "seg-45",
+        "segment": "seg-35",
         "distance": 0.6,
         "trailType": "wildwood"
       },
       {
-        "node": "n61",
-        "segment": "seg-192",
+        "node": "n30",
+        "segment": "seg-36",
+        "distance": 0.1,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n30",
+        "segment": "seg-36",
+        "distance": 0.1,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n31",
+        "segment": "seg-37",
+        "distance": 0.62,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n79",
+        "segment": "seg-88",
+        "distance": 0.57,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n60",
+        "segment": "seg-89",
+        "distance": 0.45,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n32",
+        "segment": "seg-168",
         "distance": 0.5,
         "trailType": "trail"
       }
@@ -1625,63 +1529,63 @@
     "n31": [
       {
         "node": "n30",
-        "segment": "seg-45",
-        "distance": 0.6,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n31",
-        "segment": "seg-46",
-        "distance": 0.1,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n31",
-        "segment": "seg-46",
-        "distance": 0.1,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n32",
-        "segment": "seg-47",
+        "segment": "seg-37",
         "distance": 0.62,
         "trailType": "wildwood"
       },
       {
-        "node": "n81",
-        "segment": "seg-105",
-        "distance": 0.57,
-        "trailType": "firelane"
+        "node": "n32",
+        "segment": "seg-38",
+        "distance": 0.19,
+        "trailType": "wildwood"
       },
       {
-        "node": "n62",
-        "segment": "seg-106",
-        "distance": 0.45,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n33",
-        "segment": "seg-193",
-        "distance": 0.5,
-        "trailType": "trail"
+        "node": "n32",
+        "segment": "seg-176",
+        "distance": 0.07,
+        "trailType": "connector"
       }
     ],
     "n32": [
       {
         "node": "n31",
-        "segment": "seg-47",
-        "distance": 0.62,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n33",
-        "segment": "seg-48",
+        "segment": "seg-38",
         "distance": 0.19,
         "trailType": "wildwood"
       },
       {
         "node": "n33",
-        "segment": "seg-203",
+        "segment": "seg-39",
+        "distance": 0.57,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n80",
+        "segment": "seg-90",
+        "distance": 0.57,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n61",
+        "segment": "seg-91",
+        "distance": 0.31,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n30",
+        "segment": "seg-168",
+        "distance": 0.5,
+        "trailType": "trail"
+      },
+      {
+        "node": "n61",
+        "segment": "seg-169",
+        "distance": 0.34,
+        "trailType": "trail"
+      },
+      {
+        "node": "n31",
+        "segment": "seg-176",
         "distance": 0.07,
         "trailType": "connector"
       }
@@ -1689,2259 +1593,1923 @@
     "n33": [
       {
         "node": "n32",
-        "segment": "seg-48",
-        "distance": 0.19,
+        "segment": "seg-39",
+        "distance": 0.57,
         "trailType": "wildwood"
       },
       {
         "node": "n34",
-        "segment": "seg-49",
-        "distance": 0.57,
+        "segment": "seg-40",
+        "distance": 1.15,
         "trailType": "wildwood"
       },
       {
-        "node": "n82",
-        "segment": "seg-107",
-        "distance": 0.57,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-108",
-        "distance": 0.3,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n31",
-        "segment": "seg-193",
-        "distance": 0.5,
+        "node": "n62",
+        "segment": "seg-177",
+        "distance": 0.15,
         "trailType": "trail"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-194",
-        "distance": 0.33,
-        "trailType": "trail"
-      },
-      {
-        "node": "n32",
-        "segment": "seg-203",
-        "distance": 0.07,
-        "trailType": "connector"
       }
     ],
     "n34": [
       {
         "node": "n33",
-        "segment": "seg-49",
-        "distance": 0.57,
+        "segment": "seg-40",
+        "distance": 1.15,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n34",
+        "segment": "seg-41",
+        "distance": 0.07,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n34",
+        "segment": "seg-41",
+        "distance": 0.07,
         "trailType": "wildwood"
       },
       {
         "node": "n35",
-        "segment": "seg-50",
-        "distance": 1.14,
+        "segment": "seg-42",
+        "distance": 0.53,
         "trailType": "wildwood"
       },
       {
         "node": "n64",
-        "segment": "seg-204",
-        "distance": 0.15,
+        "segment": "seg-180",
+        "distance": 0.21,
         "trailType": "trail"
       }
     ],
     "n35": [
       {
         "node": "n34",
-        "segment": "seg-50",
-        "distance": 1.14,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n35",
-        "segment": "seg-51",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n35",
-        "segment": "seg-51",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n35",
-        "segment": "seg-52",
-        "distance": 0.07,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n35",
-        "segment": "seg-52",
-        "distance": 0.07,
+        "segment": "seg-42",
+        "distance": 0.53,
         "trailType": "wildwood"
       },
       {
         "node": "n36",
-        "segment": "seg-53",
-        "distance": 0.52,
+        "segment": "seg-43",
+        "distance": 0.69,
         "trailType": "wildwood"
       },
       {
-        "node": "n66",
-        "segment": "seg-207",
-        "distance": 0.21,
+        "node": "n83",
+        "segment": "seg-94",
+        "distance": 0.98,
+        "trailType": "trail"
+      },
+      {
+        "node": "n65",
+        "segment": "seg-95",
+        "distance": 0.52,
         "trailType": "trail"
       }
     ],
     "n36": [
       {
         "node": "n35",
-        "segment": "seg-53",
-        "distance": 0.52,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n36",
-        "segment": "seg-54",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n36",
-        "segment": "seg-54",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n37",
-        "segment": "seg-55",
+        "segment": "seg-43",
         "distance": 0.69,
         "trailType": "wildwood"
       },
       {
-        "node": "n85",
-        "segment": "seg-112",
-        "distance": 0.98,
-        "trailType": "trail"
+        "node": "n37",
+        "segment": "seg-44",
+        "distance": 1.5,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n88",
+        "segment": "seg-102",
+        "distance": 0.45,
+        "trailType": "firelane"
       },
       {
         "node": "n67",
-        "segment": "seg-113",
-        "distance": 0.52,
-        "trailType": "trail"
+        "segment": "seg-103",
+        "distance": 0.28,
+        "trailType": "firelane"
       }
     ],
     "n37": [
       {
         "node": "n36",
-        "segment": "seg-55",
-        "distance": 0.69,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n38",
-        "segment": "seg-56",
+        "segment": "seg-44",
         "distance": 1.5,
         "trailType": "wildwood"
       },
       {
-        "node": "n90",
-        "segment": "seg-122",
-        "distance": 0.45,
-        "trailType": "firelane"
+        "node": "n38",
+        "segment": "seg-45",
+        "distance": 0.35,
+        "trailType": "wildwood"
       },
       {
-        "node": "n69",
-        "segment": "seg-123",
-        "distance": 0.27,
-        "trailType": "firelane"
+        "node": "n68",
+        "segment": "seg-182",
+        "distance": 0.3,
+        "trailType": "trail"
       }
     ],
     "n38": [
       {
         "node": "n37",
-        "segment": "seg-56",
-        "distance": 1.5,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n39",
-        "segment": "seg-57",
+        "segment": "seg-45",
         "distance": 0.35,
         "trailType": "wildwood"
       },
       {
-        "node": "n70",
-        "segment": "seg-211",
-        "distance": 0.3,
+        "node": "n39",
+        "segment": "seg-46",
+        "distance": 0.85,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n91",
+        "segment": "seg-183",
+        "distance": 0.24,
         "trailType": "trail"
       }
     ],
     "n39": [
       {
         "node": "n38",
-        "segment": "seg-57",
-        "distance": 0.35,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n40",
-        "segment": "seg-58",
+        "segment": "seg-46",
         "distance": 0.85,
         "trailType": "wildwood"
       },
       {
-        "node": "n93",
-        "segment": "seg-212",
-        "distance": 0.24,
-        "trailType": "trail"
+        "node": "n40",
+        "segment": "seg-47",
+        "distance": 0.53,
+        "trailType": "wildwood"
       }
     ],
     "n40": [
       {
         "node": "n39",
-        "segment": "seg-58",
-        "distance": 0.85,
+        "segment": "seg-47",
+        "distance": 0.53,
         "trailType": "wildwood"
       },
       {
         "node": "n41",
-        "segment": "seg-59",
-        "distance": 0.53,
+        "segment": "seg-48",
+        "distance": 0.91,
         "trailType": "wildwood"
+      },
+      {
+        "node": "n93",
+        "segment": "seg-110",
+        "distance": 0.32,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n70",
+        "segment": "seg-111",
+        "distance": 0.13,
+        "trailType": "firelane"
       }
     ],
     "n41": [
       {
         "node": "n40",
-        "segment": "seg-59",
-        "distance": 0.53,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n42",
-        "segment": "seg-60",
+        "segment": "seg-48",
         "distance": 0.91,
         "trailType": "wildwood"
       },
       {
-        "node": "n95",
-        "segment": "seg-130",
-        "distance": 0.32,
-        "trailType": "firelane"
+        "node": "n42",
+        "segment": "seg-49",
+        "distance": 0.81,
+        "trailType": "wildwood"
       },
       {
-        "node": "n72",
-        "segment": "seg-131",
-        "distance": 0.13,
-        "trailType": "firelane"
+        "node": "n92",
+        "segment": "seg-184",
+        "distance": 0.44,
+        "trailType": "trail"
+      },
+      {
+        "node": "n71",
+        "segment": "seg-185",
+        "distance": 0.35,
+        "trailType": "trail"
       }
     ],
     "n42": [
       {
         "node": "n41",
-        "segment": "seg-60",
-        "distance": 0.91,
+        "segment": "seg-49",
+        "distance": 0.81,
         "trailType": "wildwood"
       },
       {
         "node": "n43",
-        "segment": "seg-61",
-        "distance": 0.77,
+        "segment": "seg-50",
+        "distance": 0.78,
         "trailType": "wildwood"
       },
       {
-        "node": "n94",
-        "segment": "seg-213",
-        "distance": 0.44,
+        "node": "n90",
+        "segment": "seg-189",
+        "distance": 0.28,
         "trailType": "trail"
       },
       {
-        "node": "n73",
-        "segment": "seg-214",
-        "distance": 0.33,
+        "node": "n72",
+        "segment": "seg-190",
+        "distance": 0.26,
         "trailType": "trail"
       }
     ],
     "n43": [
       {
         "node": "n42",
-        "segment": "seg-61",
-        "distance": 0.77,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n43",
-        "segment": "seg-62",
-        "distance": 0.04,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n43",
-        "segment": "seg-62",
-        "distance": 0.04,
+        "segment": "seg-50",
+        "distance": 0.78,
         "trailType": "wildwood"
       },
       {
         "node": "n44",
-        "segment": "seg-63",
-        "distance": 0.76,
+        "segment": "seg-51",
+        "distance": 1.51,
         "trailType": "wildwood"
       },
       {
-        "node": "n92",
-        "segment": "seg-219",
-        "distance": 0.28,
+        "node": "n89",
+        "segment": "seg-115",
+        "distance": 0.33,
         "trailType": "trail"
       },
       {
-        "node": "n74",
-        "segment": "seg-220",
-        "distance": 0.26,
+        "node": "n73",
+        "segment": "seg-116",
+        "distance": 0.37,
         "trailType": "trail"
       }
     ],
     "n44": [
       {
         "node": "n43",
-        "segment": "seg-63",
-        "distance": 0.76,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n44",
-        "segment": "seg-64",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n44",
-        "segment": "seg-64",
-        "distance": 0.01,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n45",
-        "segment": "seg-65",
+        "segment": "seg-51",
         "distance": 1.51,
         "trailType": "wildwood"
       },
       {
-        "node": "n91",
-        "segment": "seg-135",
-        "distance": 0.33,
+        "node": "n45",
+        "segment": "seg-52",
+        "distance": 0.56,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n133",
+        "segment": "seg-193",
+        "distance": 0.34,
         "trailType": "trail"
       },
       {
-        "node": "n75",
-        "segment": "seg-136",
-        "distance": 0.37,
+        "node": "n74",
+        "segment": "seg-194",
+        "distance": 0.35,
         "trailType": "trail"
       }
     ],
     "n45": [
       {
         "node": "n44",
-        "segment": "seg-65",
-        "distance": 1.51,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n46",
-        "segment": "seg-66",
+        "segment": "seg-52",
         "distance": 0.56,
         "trailType": "wildwood"
       },
       {
-        "node": "n136",
-        "segment": "seg-224",
-        "distance": 0.34,
-        "trailType": "trail"
+        "node": "n45",
+        "segment": "seg-53",
+        "distance": 0.11,
+        "trailType": "wildwood"
       },
       {
-        "node": "n76",
-        "segment": "seg-225",
-        "distance": 0.35,
+        "node": "n45",
+        "segment": "seg-53",
+        "distance": 0.11,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n46",
+        "segment": "seg-54",
+        "distance": 0.32,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n45",
+        "segment": "seg-196",
+        "distance": 0.02,
+        "trailType": "connector"
+      },
+      {
+        "node": "n45",
+        "segment": "seg-196",
+        "distance": 0.02,
+        "trailType": "connector"
+      },
+      {
+        "node": "n75",
+        "segment": "seg-197",
+        "distance": 0.29,
         "trailType": "trail"
       }
     ],
     "n46": [
       {
         "node": "n45",
-        "segment": "seg-66",
-        "distance": 0.56,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n47",
-        "segment": "seg-67",
-        "distance": 0.06,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n46",
-        "segment": "seg-68",
-        "distance": 0.03,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n46",
-        "segment": "seg-68",
-        "distance": 0.03,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n48",
-        "segment": "seg-69",
+        "segment": "seg-54",
         "distance": 0.32,
         "trailType": "wildwood"
       },
       {
-        "node": "n46",
-        "segment": "seg-227",
-        "distance": 0.02,
-        "trailType": "connector"
+        "node": "n47",
+        "segment": "seg-55",
+        "distance": 0.42,
+        "trailType": "wildwood"
       },
       {
-        "node": "n46",
-        "segment": "seg-227",
-        "distance": 0.02,
-        "trailType": "connector"
-      },
-      {
-        "node": "n46",
-        "segment": "seg-228",
-        "distance": 0.03,
-        "trailType": "trail"
-      },
-      {
-        "node": "n46",
-        "segment": "seg-228",
-        "distance": 0.03,
-        "trailType": "trail"
-      },
-      {
-        "node": "n77",
-        "segment": "seg-229",
-        "distance": 0.27,
-        "trailType": "trail"
+        "node": "n98",
+        "segment": "seg-118",
+        "distance": 0.17,
+        "trailType": "firelane"
       }
     ],
     "n47": [
       {
         "node": "n46",
-        "segment": "seg-67",
-        "distance": 0.06,
-        "trailType": "wildwood"
-      }
-    ],
-    "n48": [
-      {
-        "node": "n46",
-        "segment": "seg-69",
-        "distance": 0.32,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n49",
-        "segment": "seg-70",
+        "segment": "seg-55",
         "distance": 0.42,
         "trailType": "wildwood"
       },
       {
-        "node": "n100",
-        "segment": "seg-138",
-        "distance": 0.17,
+        "node": "n48",
+        "segment": "seg-56",
+        "distance": 0.15,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n99",
+        "segment": "seg-119",
+        "distance": 0.14,
         "trailType": "firelane"
+      },
+      {
+        "node": "n100",
+        "segment": "seg-120",
+        "distance": 0.1,
+        "trailType": "firelane"
+      }
+    ],
+    "n48": [
+      {
+        "node": "n47",
+        "segment": "seg-56",
+        "distance": 0.15,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n49",
+        "segment": "seg-57",
+        "distance": 0.33,
+        "trailType": "wildwood"
+      },
+      {
+        "node": "n99",
+        "segment": "seg-199",
+        "distance": 0.07,
+        "trailType": "connector"
       }
     ],
     "n49": [
       {
         "node": "n48",
-        "segment": "seg-70",
-        "distance": 0.42,
+        "segment": "seg-57",
+        "distance": 0.33,
         "trailType": "wildwood"
       },
       {
         "node": "n50",
-        "segment": "seg-71",
-        "distance": 0.15,
+        "segment": "seg-58",
+        "distance": 0.39,
         "trailType": "wildwood"
       },
       {
-        "node": "n101",
-        "segment": "seg-139",
+        "node": "n103",
+        "segment": "seg-200",
         "distance": 0.14,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n102",
-        "segment": "seg-140",
-        "distance": 0.1,
-        "trailType": "firelane"
+        "trailType": "connector"
       }
     ],
     "n50": [
       {
         "node": "n49",
-        "segment": "seg-71",
-        "distance": 0.15,
+        "segment": "seg-58",
+        "distance": 0.39,
         "trailType": "wildwood"
       },
       {
         "node": "n51",
-        "segment": "seg-72",
-        "distance": 0.33,
+        "segment": "seg-59",
+        "distance": 1.12,
         "trailType": "wildwood"
       },
       {
-        "node": "n101",
-        "segment": "seg-231",
-        "distance": 0.07,
-        "trailType": "connector"
+        "node": "n103",
+        "segment": "seg-125",
+        "distance": 0.38,
+        "trailType": "trail"
+      },
+      {
+        "node": "n104",
+        "segment": "seg-126",
+        "distance": 1.28,
+        "trailType": "trail"
       }
     ],
     "n51": [
       {
         "node": "n50",
-        "segment": "seg-72",
-        "distance": 0.33,
+        "segment": "seg-59",
+        "distance": 1.12,
         "trailType": "wildwood"
       },
       {
         "node": "n52",
-        "segment": "seg-73",
-        "distance": 0.39,
+        "segment": "seg-60",
+        "distance": 0.87,
         "trailType": "wildwood"
       },
       {
         "node": "n105",
-        "segment": "seg-232",
-        "distance": 0.14,
-        "trailType": "connector"
+        "segment": "seg-127",
+        "distance": 0.41,
+        "trailType": "trail"
+      },
+      {
+        "node": "n106",
+        "segment": "seg-128",
+        "distance": 0.26,
+        "trailType": "trail"
       }
     ],
     "n52": [
       {
         "node": "n51",
-        "segment": "seg-73",
-        "distance": 0.39,
+        "segment": "seg-60",
+        "distance": 0.87,
         "trailType": "wildwood"
       },
       {
         "node": "n53",
-        "segment": "seg-74",
-        "distance": 1.12,
+        "segment": "seg-61",
+        "distance": 1.77,
         "trailType": "wildwood"
       },
       {
-        "node": "n105",
-        "segment": "seg-145",
-        "distance": 0.38,
-        "trailType": "trail"
+        "node": "n110",
+        "segment": "seg-133",
+        "distance": 0.28,
+        "trailType": "firelane"
       },
       {
-        "node": "n106",
-        "segment": "seg-146",
-        "distance": 1.28,
-        "trailType": "trail"
+        "node": "n107",
+        "segment": "seg-134",
+        "distance": 0.38,
+        "trailType": "firelane"
       }
     ],
     "n53": [
       {
         "node": "n52",
-        "segment": "seg-74",
-        "distance": 1.12,
+        "segment": "seg-61",
+        "distance": 1.77,
         "trailType": "wildwood"
-      },
-      {
-        "node": "n54",
-        "segment": "seg-75",
-        "distance": 0.87,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n107",
-        "segment": "seg-147",
-        "distance": 0.41,
-        "trailType": "trail"
-      },
-      {
-        "node": "n108",
-        "segment": "seg-148",
-        "distance": 0.26,
-        "trailType": "trail"
       }
     ],
     "n54": [
       {
-        "node": "n53",
-        "segment": "seg-75",
-        "distance": 0.87,
-        "trailType": "wildwood"
-      },
-      {
         "node": "n55",
-        "segment": "seg-76",
-        "distance": 1.77,
-        "trailType": "wildwood"
-      },
-      {
-        "node": "n112",
-        "segment": "seg-154",
-        "distance": 0.28,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n109",
-        "segment": "seg-155",
-        "distance": 0.38,
-        "trailType": "firelane"
+        "segment": "seg-62",
+        "distance": 0.26,
+        "trailType": "leif"
       }
     ],
     "n55": [
       {
         "node": "n54",
-        "segment": "seg-76",
-        "distance": 1.77,
-        "trailType": "wildwood"
+        "segment": "seg-62",
+        "distance": 0.26,
+        "trailType": "leif"
+      },
+      {
+        "node": "n56",
+        "segment": "seg-63",
+        "distance": 0.6,
+        "trailType": "leif"
+      },
+      {
+        "node": "n22",
+        "segment": "seg-160",
+        "distance": 0.55,
+        "trailType": "trail"
       }
     ],
     "n56": [
       {
-        "node": "n57",
-        "segment": "seg-77",
-        "distance": 0.26,
+        "node": "n55",
+        "segment": "seg-63",
+        "distance": 0.6,
         "trailType": "leif"
+      },
+      {
+        "node": "n57",
+        "segment": "seg-64",
+        "distance": 0.56,
+        "trailType": "leif"
+      },
+      {
+        "node": "n23",
+        "segment": "seg-158",
+        "distance": 0.34,
+        "trailType": "trail"
       }
     ],
     "n57": [
       {
         "node": "n56",
-        "segment": "seg-77",
-        "distance": 0.26,
+        "segment": "seg-64",
+        "distance": 0.56,
         "trailType": "leif"
       },
       {
         "node": "n58",
-        "segment": "seg-78",
-        "distance": 0.6,
+        "segment": "seg-65",
+        "distance": 1.57,
         "trailType": "leif"
       },
       {
-        "node": "n23",
-        "segment": "seg-185",
-        "distance": 0.55,
+        "node": "n25",
+        "segment": "seg-163",
+        "distance": 0.89,
         "trailType": "trail"
       }
     ],
     "n58": [
       {
         "node": "n57",
-        "segment": "seg-78",
-        "distance": 0.6,
+        "segment": "seg-65",
+        "distance": 1.57,
         "trailType": "leif"
       },
       {
         "node": "n59",
-        "segment": "seg-79",
-        "distance": 0.56,
+        "segment": "seg-66",
+        "distance": 0.4,
         "trailType": "leif"
       },
       {
-        "node": "n24",
-        "segment": "seg-182",
-        "distance": 0.34,
-        "trailType": "trail"
+        "node": "n78",
+        "segment": "seg-87",
+        "distance": 0.45,
+        "trailType": "firelane"
       }
     ],
     "n59": [
       {
         "node": "n58",
-        "segment": "seg-79",
-        "distance": 0.56,
+        "segment": "seg-66",
+        "distance": 0.4,
         "trailType": "leif"
       },
       {
         "node": "n60",
-        "segment": "seg-80",
-        "distance": 1.57,
+        "segment": "seg-67",
+        "distance": 0.28,
         "trailType": "leif"
       },
       {
-        "node": "n26",
-        "segment": "seg-188",
-        "distance": 0.89,
+        "node": "n28",
+        "segment": "seg-165",
+        "distance": 0.28,
+        "trailType": "trail"
+      },
+      {
+        "node": "n29",
+        "segment": "seg-167",
+        "distance": 0.5,
         "trailType": "trail"
       }
     ],
     "n60": [
       {
         "node": "n59",
-        "segment": "seg-80",
-        "distance": 1.57,
+        "segment": "seg-67",
+        "distance": 0.28,
         "trailType": "leif"
       },
       {
         "node": "n61",
-        "segment": "seg-81",
-        "distance": 0.39,
+        "segment": "seg-68",
+        "distance": 0.52,
         "trailType": "leif"
       },
       {
-        "node": "n80",
-        "segment": "seg-104",
-        "distance": 0.44,
+        "node": "n30",
+        "segment": "seg-89",
+        "distance": 0.45,
         "trailType": "firelane"
       }
     ],
     "n61": [
       {
         "node": "n60",
-        "segment": "seg-81",
-        "distance": 0.39,
-        "trailType": "leif"
-      },
-      {
-        "node": "n61",
-        "segment": "seg-82",
-        "distance": 0.01,
-        "trailType": "leif"
-      },
-      {
-        "node": "n61",
-        "segment": "seg-82",
-        "distance": 0.01,
+        "segment": "seg-68",
+        "distance": 0.52,
         "trailType": "leif"
       },
       {
         "node": "n62",
-        "segment": "seg-83",
-        "distance": 0.28,
+        "segment": "seg-69",
+        "distance": 0.33,
         "trailType": "leif"
       },
       {
-        "node": "n29",
-        "segment": "seg-190",
-        "distance": 0.28,
+        "node": "n32",
+        "segment": "seg-91",
+        "distance": 0.31,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n32",
+        "segment": "seg-169",
+        "distance": 0.34,
         "trailType": "trail"
       },
       {
-        "node": "n30",
-        "segment": "seg-192",
-        "distance": 0.5,
+        "node": "n126",
+        "segment": "seg-170",
+        "distance": 0.37,
         "trailType": "trail"
       }
     ],
     "n62": [
       {
         "node": "n61",
-        "segment": "seg-83",
-        "distance": 0.28,
+        "segment": "seg-69",
+        "distance": 0.33,
+        "trailType": "leif"
+      },
+      {
+        "node": "n62",
+        "segment": "seg-70",
+        "distance": 0.06,
+        "trailType": "leif"
+      },
+      {
+        "node": "n62",
+        "segment": "seg-70",
+        "distance": 0.06,
         "trailType": "leif"
       },
       {
         "node": "n63",
-        "segment": "seg-84",
+        "segment": "seg-71",
         "distance": 0.52,
         "trailType": "leif"
       },
       {
-        "node": "n31",
-        "segment": "seg-106",
-        "distance": 0.45,
-        "trailType": "firelane"
+        "node": "n33",
+        "segment": "seg-177",
+        "distance": 0.15,
+        "trailType": "trail"
+      },
+      {
+        "node": "n62",
+        "segment": "seg-178",
+        "distance": 0.06,
+        "trailType": "trail"
+      },
+      {
+        "node": "n62",
+        "segment": "seg-178",
+        "distance": 0.06,
+        "trailType": "trail"
+      },
+      {
+        "node": "n126",
+        "segment": "seg-179",
+        "distance": 0.13,
+        "trailType": "trail"
       }
     ],
     "n63": [
       {
         "node": "n62",
-        "segment": "seg-84",
+        "segment": "seg-71",
         "distance": 0.52,
         "trailType": "leif"
       },
       {
         "node": "n64",
-        "segment": "seg-85",
-        "distance": 0.33,
+        "segment": "seg-72",
+        "distance": 0.35,
         "trailType": "leif"
       },
       {
-        "node": "n33",
-        "segment": "seg-108",
-        "distance": 0.3,
+        "node": "n86",
+        "segment": "seg-98",
+        "distance": 0.2,
         "trailType": "firelane"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-109",
-        "distance": 0.01,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-109",
-        "distance": 0.01,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n33",
-        "segment": "seg-194",
-        "distance": 0.33,
-        "trailType": "trail"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-195",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-195",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-196",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n63",
-        "segment": "seg-196",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n129",
-        "segment": "seg-197",
-        "distance": 0.37,
-        "trailType": "trail"
       }
     ],
     "n64": [
       {
         "node": "n63",
-        "segment": "seg-85",
-        "distance": 0.33,
-        "trailType": "leif"
-      },
-      {
-        "node": "n64",
-        "segment": "seg-86",
-        "distance": 0.06,
-        "trailType": "leif"
-      },
-      {
-        "node": "n64",
-        "segment": "seg-86",
-        "distance": 0.06,
+        "segment": "seg-72",
+        "distance": 0.35,
         "trailType": "leif"
       },
       {
         "node": "n65",
-        "segment": "seg-87",
-        "distance": 0.52,
+        "segment": "seg-73",
+        "distance": 0.74,
         "trailType": "leif"
       },
       {
         "node": "n34",
-        "segment": "seg-204",
-        "distance": 0.15,
-        "trailType": "trail"
-      },
-      {
-        "node": "n64",
-        "segment": "seg-205",
-        "distance": 0.06,
-        "trailType": "trail"
-      },
-      {
-        "node": "n64",
-        "segment": "seg-205",
-        "distance": 0.06,
-        "trailType": "trail"
-      },
-      {
-        "node": "n129",
-        "segment": "seg-206",
-        "distance": 0.13,
+        "segment": "seg-180",
+        "distance": 0.21,
         "trailType": "trail"
       }
     ],
     "n65": [
       {
         "node": "n64",
-        "segment": "seg-87",
-        "distance": 0.52,
+        "segment": "seg-73",
+        "distance": 0.74,
         "trailType": "leif"
       },
       {
         "node": "n66",
-        "segment": "seg-88",
-        "distance": 0.35,
+        "segment": "seg-74",
+        "distance": 0.24,
         "trailType": "leif"
       },
       {
-        "node": "n88",
-        "segment": "seg-118",
+        "node": "n35",
+        "segment": "seg-95",
+        "distance": 0.52,
+        "trailType": "trail"
+      },
+      {
+        "node": "n84",
+        "segment": "seg-96",
+        "distance": 0.81,
+        "trailType": "trail"
+      },
+      {
+        "node": "n84",
+        "segment": "seg-174",
+        "distance": 0.82,
+        "trailType": "trail"
+      },
+      {
+        "node": "n66",
+        "segment": "seg-175",
+        "distance": 0.35,
+        "trailType": "trail"
+      },
+      {
+        "node": "n65",
+        "segment": "seg-181",
         "distance": 0.2,
-        "trailType": "firelane"
+        "trailType": "trail"
+      },
+      {
+        "node": "n65",
+        "segment": "seg-181",
+        "distance": 0.2,
+        "trailType": "trail"
       }
     ],
     "n66": [
       {
         "node": "n65",
-        "segment": "seg-88",
-        "distance": 0.35,
+        "segment": "seg-74",
+        "distance": 0.24,
         "trailType": "leif"
       },
       {
         "node": "n67",
-        "segment": "seg-89",
-        "distance": 0.74,
+        "segment": "seg-75",
+        "distance": 0.16,
         "trailType": "leif"
       },
       {
-        "node": "n35",
-        "segment": "seg-207",
-        "distance": 0.21,
+        "node": "n65",
+        "segment": "seg-175",
+        "distance": 0.35,
         "trailType": "trail"
       }
     ],
     "n67": [
       {
         "node": "n66",
-        "segment": "seg-89",
-        "distance": 0.74,
+        "segment": "seg-75",
+        "distance": 0.16,
         "trailType": "leif"
       },
       {
         "node": "n68",
-        "segment": "seg-90",
-        "distance": 0.24,
+        "segment": "seg-76",
+        "distance": 0.54,
         "trailType": "leif"
       },
       {
         "node": "n36",
-        "segment": "seg-113",
-        "distance": 0.52,
-        "trailType": "trail"
-      },
-      {
-        "node": "n86",
-        "segment": "seg-114",
-        "distance": 0.81,
-        "trailType": "trail"
-      },
-      {
-        "node": "n86",
-        "segment": "seg-201",
-        "distance": 0.82,
-        "trailType": "trail"
-      },
-      {
-        "node": "n68",
-        "segment": "seg-202",
-        "distance": 0.35,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-208",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-208",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-209",
-        "distance": 0.18,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-209",
-        "distance": 0.18,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-210",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-210",
-        "distance": 0.01,
-        "trailType": "trail"
+        "segment": "seg-103",
+        "distance": 0.28,
+        "trailType": "firelane"
       }
     ],
     "n68": [
       {
         "node": "n67",
-        "segment": "seg-90",
-        "distance": 0.24,
+        "segment": "seg-76",
+        "distance": 0.54,
         "trailType": "leif"
       },
       {
         "node": "n69",
-        "segment": "seg-91",
-        "distance": 0.16,
+        "segment": "seg-77",
+        "distance": 0.5,
         "trailType": "leif"
       },
       {
-        "node": "n67",
-        "segment": "seg-202",
-        "distance": 0.35,
+        "node": "n37",
+        "segment": "seg-182",
+        "distance": 0.3,
         "trailType": "trail"
       }
     ],
     "n69": [
       {
         "node": "n68",
-        "segment": "seg-91",
-        "distance": 0.16,
+        "segment": "seg-77",
+        "distance": 0.5,
         "trailType": "leif"
       },
       {
         "node": "n70",
-        "segment": "seg-92",
-        "distance": 0.54,
+        "segment": "seg-78",
+        "distance": 0.43,
         "trailType": "leif"
-      },
-      {
-        "node": "n37",
-        "segment": "seg-123",
-        "distance": 0.27,
-        "trailType": "firelane"
       }
     ],
     "n70": [
       {
         "node": "n69",
-        "segment": "seg-92",
-        "distance": 0.54,
+        "segment": "seg-78",
+        "distance": 0.43,
         "trailType": "leif"
       },
       {
         "node": "n71",
-        "segment": "seg-93",
-        "distance": 0.5,
+        "segment": "seg-79",
+        "distance": 0.43,
         "trailType": "leif"
       },
       {
-        "node": "n38",
-        "segment": "seg-211",
-        "distance": 0.3,
+        "node": "n40",
+        "segment": "seg-111",
+        "distance": 0.13,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n70",
+        "segment": "seg-112",
+        "distance": 0.11,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n70",
+        "segment": "seg-112",
+        "distance": 0.11,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n116",
+        "segment": "seg-139",
+        "distance": 0.7,
         "trailType": "trail"
       }
     ],
     "n71": [
       {
         "node": "n70",
-        "segment": "seg-93",
-        "distance": 0.5,
+        "segment": "seg-79",
+        "distance": 0.43,
         "trailType": "leif"
       },
       {
         "node": "n72",
-        "segment": "seg-94",
-        "distance": 0.43,
+        "segment": "seg-80",
+        "distance": 0.55,
         "trailType": "leif"
+      },
+      {
+        "node": "n41",
+        "segment": "seg-185",
+        "distance": 0.35,
+        "trailType": "trail"
+      },
+      {
+        "node": "n128",
+        "segment": "seg-186",
+        "distance": 0.47,
+        "trailType": "trail"
       }
     ],
     "n72": [
       {
         "node": "n71",
-        "segment": "seg-94",
-        "distance": 0.43,
+        "segment": "seg-80",
+        "distance": 0.55,
         "trailType": "leif"
       },
       {
         "node": "n73",
-        "segment": "seg-95",
-        "distance": 0.42,
+        "segment": "seg-81",
+        "distance": 0.36,
         "trailType": "leif"
       },
       {
-        "node": "n41",
-        "segment": "seg-131",
-        "distance": 0.13,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n72",
-        "segment": "seg-132",
-        "distance": 0.11,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n72",
-        "segment": "seg-132",
-        "distance": 0.11,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n118",
-        "segment": "seg-160",
-        "distance": 0.7,
+        "node": "n42",
+        "segment": "seg-190",
+        "distance": 0.26,
         "trailType": "trail"
       }
     ],
     "n73": [
       {
         "node": "n72",
-        "segment": "seg-95",
-        "distance": 0.42,
-        "trailType": "leif"
-      },
-      {
-        "node": "n73",
-        "segment": "seg-96",
-        "distance": 0.02,
-        "trailType": "leif"
-      },
-      {
-        "node": "n73",
-        "segment": "seg-96",
-        "distance": 0.02,
+        "segment": "seg-81",
+        "distance": 0.36,
         "trailType": "leif"
       },
       {
         "node": "n74",
-        "segment": "seg-97",
-        "distance": 0.55,
+        "segment": "seg-82",
+        "distance": 0.81,
         "trailType": "leif"
       },
       {
-        "node": "n42",
-        "segment": "seg-214",
-        "distance": 0.33,
+        "node": "n43",
+        "segment": "seg-116",
+        "distance": 0.37,
         "trailType": "trail"
       },
       {
-        "node": "n73",
-        "segment": "seg-215",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n73",
-        "segment": "seg-215",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n131",
-        "segment": "seg-216",
-        "distance": 0.47,
+        "node": "n97",
+        "segment": "seg-117",
+        "distance": 0.44,
         "trailType": "trail"
       }
     ],
     "n74": [
       {
         "node": "n73",
-        "segment": "seg-97",
-        "distance": 0.55,
+        "segment": "seg-82",
+        "distance": 0.81,
         "trailType": "leif"
       },
       {
         "node": "n75",
-        "segment": "seg-98",
-        "distance": 0.36,
+        "segment": "seg-83",
+        "distance": 1.06,
         "trailType": "leif"
       },
       {
-        "node": "n43",
-        "segment": "seg-220",
-        "distance": 0.26,
+        "node": "n44",
+        "segment": "seg-194",
+        "distance": 0.35,
+        "trailType": "trail"
+      },
+      {
+        "node": "n134",
+        "segment": "seg-195",
+        "distance": 0.72,
         "trailType": "trail"
       }
     ],
     "n75": [
       {
         "node": "n74",
-        "segment": "seg-98",
-        "distance": 0.36,
+        "segment": "seg-83",
+        "distance": 1.06,
         "trailType": "leif"
       },
       {
-        "node": "n76",
-        "segment": "seg-99",
-        "distance": 0.81,
-        "trailType": "leif"
+        "node": "n102",
+        "segment": "seg-123",
+        "distance": 0.62,
+        "trailType": "firelane"
       },
       {
-        "node": "n44",
-        "segment": "seg-136",
-        "distance": 0.37,
-        "trailType": "trail"
+        "node": "n115",
+        "segment": "seg-138",
+        "distance": 0.63,
+        "trailType": "firelane"
       },
       {
-        "node": "n99",
-        "segment": "seg-137",
-        "distance": 0.44,
+        "node": "n45",
+        "segment": "seg-197",
+        "distance": 0.29,
         "trailType": "trail"
       }
     ],
     "n76": [
       {
-        "node": "n75",
-        "segment": "seg-99",
-        "distance": 0.81,
-        "trailType": "leif"
-      },
-      {
         "node": "n77",
-        "segment": "seg-100",
-        "distance": 1.06,
-        "trailType": "leif"
-      },
-      {
-        "node": "n45",
-        "segment": "seg-225",
-        "distance": 0.35,
-        "trailType": "trail"
-      },
-      {
-        "node": "n137",
-        "segment": "seg-226",
-        "distance": 0.72,
-        "trailType": "trail"
+        "segment": "seg-84",
+        "distance": 0.08,
+        "trailType": "firelane"
       }
     ],
     "n77": [
       {
         "node": "n76",
-        "segment": "seg-100",
-        "distance": 1.06,
-        "trailType": "leif"
-      },
-      {
-        "node": "n104",
-        "segment": "seg-143",
-        "distance": 0.62,
+        "segment": "seg-84",
+        "distance": 0.08,
         "trailType": "firelane"
       },
       {
-        "node": "n117",
-        "segment": "seg-159",
-        "distance": 0.63,
+        "node": "n27",
+        "segment": "seg-85",
+        "distance": 0.55,
         "trailType": "firelane"
-      },
-      {
-        "node": "n46",
-        "segment": "seg-229",
-        "distance": 0.27,
-        "trailType": "trail"
       }
     ],
     "n78": [
       {
-        "node": "n79",
-        "segment": "seg-101",
-        "distance": 0.08,
+        "node": "n27",
+        "segment": "seg-86",
+        "distance": 0.07,
         "trailType": "firelane"
-      }
-    ],
-    "n79": [
+      },
       {
-        "node": "n78",
-        "segment": "seg-101",
-        "distance": 0.08,
+        "node": "n58",
+        "segment": "seg-87",
+        "distance": 0.45,
         "trailType": "firelane"
       },
       {
         "node": "n28",
-        "segment": "seg-102",
-        "distance": 0.55,
+        "segment": "seg-164",
+        "distance": 0.63,
+        "trailType": "trail"
+      }
+    ],
+    "n79": [
+      {
+        "node": "n30",
+        "segment": "seg-88",
+        "distance": 0.57,
         "trailType": "firelane"
       }
     ],
     "n80": [
       {
-        "node": "n28",
-        "segment": "seg-103",
-        "distance": 0.07,
+        "node": "n32",
+        "segment": "seg-90",
+        "distance": 0.57,
         "trailType": "firelane"
-      },
-      {
-        "node": "n60",
-        "segment": "seg-104",
-        "distance": 0.44,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n29",
-        "segment": "seg-189",
-        "distance": 0.63,
-        "trailType": "trail"
       }
     ],
     "n81": [
       {
-        "node": "n31",
-        "segment": "seg-105",
-        "distance": 0.57,
-        "trailType": "firelane"
+        "node": "n82",
+        "segment": "seg-92",
+        "distance": 0.1,
+        "trailType": "trail"
       }
     ],
     "n82": [
       {
-        "node": "n33",
-        "segment": "seg-107",
-        "distance": 0.57,
+        "node": "n81",
+        "segment": "seg-92",
+        "distance": 0.1,
+        "trailType": "trail"
+      },
+      {
+        "node": "n83",
+        "segment": "seg-93",
+        "distance": 0.11,
+        "trailType": "trail"
+      },
+      {
+        "node": "n87",
+        "segment": "seg-100",
+        "distance": 0.24,
         "trailType": "firelane"
       }
     ],
     "n83": [
       {
-        "node": "n84",
-        "segment": "seg-110",
-        "distance": 0.1,
+        "node": "n82",
+        "segment": "seg-93",
+        "distance": 0.11,
+        "trailType": "trail"
+      },
+      {
+        "node": "n35",
+        "segment": "seg-94",
+        "distance": 0.98,
         "trailType": "trail"
       }
     ],
     "n84": [
       {
-        "node": "n83",
-        "segment": "seg-110",
-        "distance": 0.1,
+        "node": "n65",
+        "segment": "seg-96",
+        "distance": 0.81,
         "trailType": "trail"
       },
       {
         "node": "n85",
-        "segment": "seg-111",
-        "distance": 0.11,
+        "segment": "seg-97",
+        "distance": 0.48,
         "trailType": "trail"
       },
       {
-        "node": "n89",
-        "segment": "seg-120",
-        "distance": 0.24,
-        "trailType": "firelane"
+        "node": "n86",
+        "segment": "seg-173",
+        "distance": 0.47,
+        "trailType": "trail"
+      },
+      {
+        "node": "n65",
+        "segment": "seg-174",
+        "distance": 0.82,
+        "trailType": "trail"
       }
     ],
     "n85": [
       {
         "node": "n84",
-        "segment": "seg-111",
-        "distance": 0.11,
+        "segment": "seg-97",
+        "distance": 0.48,
         "trailType": "trail"
       },
       {
-        "node": "n36",
-        "segment": "seg-112",
-        "distance": 0.98,
-        "trailType": "trail"
+        "node": "n86",
+        "segment": "seg-99",
+        "distance": 0.35,
+        "trailType": "firelane"
       }
     ],
     "n86": [
       {
-        "node": "n67",
-        "segment": "seg-114",
-        "distance": 0.81,
-        "trailType": "trail"
+        "node": "n63",
+        "segment": "seg-98",
+        "distance": 0.2,
+        "trailType": "firelane"
       },
       {
-        "node": "n87",
-        "segment": "seg-115",
+        "node": "n85",
+        "segment": "seg-99",
+        "distance": 0.35,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n127",
+        "segment": "seg-172",
         "distance": 0.45,
         "trailType": "trail"
       },
       {
-        "node": "n88",
-        "segment": "seg-200",
+        "node": "n84",
+        "segment": "seg-173",
         "distance": 0.47,
-        "trailType": "trail"
-      },
-      {
-        "node": "n67",
-        "segment": "seg-201",
-        "distance": 0.82,
         "trailType": "trail"
       }
     ],
     "n87": [
       {
-        "node": "n86",
-        "segment": "seg-115",
-        "distance": 0.45,
-        "trailType": "trail"
-      },
-      {
-        "node": "n87",
-        "segment": "seg-116",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n87",
-        "segment": "seg-116",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n87",
-        "segment": "seg-117",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n87",
-        "segment": "seg-117",
-        "distance": 0.02,
-        "trailType": "trail"
+        "node": "n82",
+        "segment": "seg-100",
+        "distance": 0.24,
+        "trailType": "firelane"
       },
       {
         "node": "n88",
-        "segment": "seg-119",
-        "distance": 0.35,
+        "segment": "seg-101",
+        "distance": 0.15,
         "trailType": "firelane"
       }
     ],
     "n88": [
       {
-        "node": "n65",
-        "segment": "seg-118",
-        "distance": 0.2,
-        "trailType": "firelane"
-      },
-      {
         "node": "n87",
-        "segment": "seg-119",
-        "distance": 0.35,
+        "segment": "seg-101",
+        "distance": 0.15,
         "trailType": "firelane"
       },
       {
-        "node": "n130",
-        "segment": "seg-199",
+        "node": "n36",
+        "segment": "seg-102",
         "distance": 0.45,
-        "trailType": "trail"
-      },
-      {
-        "node": "n86",
-        "segment": "seg-200",
-        "distance": 0.47,
-        "trailType": "trail"
+        "trailType": "firelane"
       }
     ],
     "n89": [
       {
-        "node": "n84",
-        "segment": "seg-120",
-        "distance": 0.24,
+        "node": "n90",
+        "segment": "seg-104",
+        "distance": 0.12,
         "trailType": "firelane"
       },
       {
-        "node": "n90",
-        "segment": "seg-121",
-        "distance": 0.15,
-        "trailType": "firelane"
+        "node": "n96",
+        "segment": "seg-114",
+        "distance": 0.1,
+        "trailType": "trail"
+      },
+      {
+        "node": "n43",
+        "segment": "seg-115",
+        "distance": 0.33,
+        "trailType": "trail"
       }
     ],
     "n90": [
       {
         "node": "n89",
-        "segment": "seg-121",
-        "distance": 0.15,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n37",
-        "segment": "seg-122",
-        "distance": 0.45,
-        "trailType": "firelane"
-      }
-    ],
-    "n91": [
-      {
-        "node": "n92",
-        "segment": "seg-124",
+        "segment": "seg-104",
         "distance": 0.12,
         "trailType": "firelane"
       },
       {
-        "node": "n98",
-        "segment": "seg-134",
-        "distance": 0.1,
+        "node": "n91",
+        "segment": "seg-105",
+        "distance": 0.06,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n42",
+        "segment": "seg-189",
+        "distance": 0.28,
         "trailType": "trail"
       },
       {
-        "node": "n44",
-        "segment": "seg-135",
-        "distance": 0.33,
+        "node": "n131",
+        "segment": "seg-191",
+        "distance": 0.08,
+        "trailType": "connector"
+      }
+    ],
+    "n91": [
+      {
+        "node": "n90",
+        "segment": "seg-105",
+        "distance": 0.06,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n92",
+        "segment": "seg-106",
+        "distance": 0.18,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n38",
+        "segment": "seg-183",
+        "distance": 0.24,
         "trailType": "trail"
       }
     ],
     "n92": [
       {
         "node": "n91",
-        "segment": "seg-124",
-        "distance": 0.12,
+        "segment": "seg-106",
+        "distance": 0.18,
         "trailType": "firelane"
       },
       {
         "node": "n93",
-        "segment": "seg-125",
-        "distance": 0.06,
+        "segment": "seg-107",
+        "distance": 0.28,
         "trailType": "firelane"
       },
       {
-        "node": "n43",
-        "segment": "seg-219",
-        "distance": 0.28,
+        "node": "n41",
+        "segment": "seg-184",
+        "distance": 0.44,
         "trailType": "trail"
-      },
-      {
-        "node": "n134",
-        "segment": "seg-221",
-        "distance": 0.08,
-        "trailType": "connector"
       }
     ],
     "n93": [
       {
         "node": "n92",
-        "segment": "seg-125",
-        "distance": 0.06,
+        "segment": "seg-107",
+        "distance": 0.28,
         "trailType": "firelane"
       },
       {
         "node": "n94",
-        "segment": "seg-126",
-        "distance": 0.18,
+        "segment": "seg-108",
+        "distance": 0.48,
         "trailType": "firelane"
       },
       {
-        "node": "n39",
-        "segment": "seg-212",
-        "distance": 0.24,
-        "trailType": "trail"
+        "node": "n40",
+        "segment": "seg-110",
+        "distance": 0.32,
+        "trailType": "firelane"
       }
     ],
     "n94": [
       {
         "node": "n93",
-        "segment": "seg-126",
-        "distance": 0.18,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n95",
-        "segment": "seg-127",
-        "distance": 0.28,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n42",
-        "segment": "seg-213",
-        "distance": 0.44,
-        "trailType": "trail"
-      }
-    ],
-    "n95": [
-      {
-        "node": "n94",
-        "segment": "seg-127",
-        "distance": 0.28,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n96",
-        "segment": "seg-128",
+        "segment": "seg-108",
         "distance": 0.48,
         "trailType": "firelane"
       },
       {
-        "node": "n41",
-        "segment": "seg-130",
-        "distance": 0.32,
+        "node": "n94",
+        "segment": "seg-109",
+        "distance": 0.16,
         "trailType": "firelane"
+      },
+      {
+        "node": "n94",
+        "segment": "seg-109",
+        "distance": 0.16,
+        "trailType": "firelane"
+      }
+    ],
+    "n95": [
+      {
+        "node": "n96",
+        "segment": "seg-113",
+        "distance": 0.12,
+        "trailType": "trail"
       }
     ],
     "n96": [
       {
         "node": "n95",
-        "segment": "seg-128",
-        "distance": 0.48,
-        "trailType": "firelane"
+        "segment": "seg-113",
+        "distance": 0.12,
+        "trailType": "trail"
       },
       {
-        "node": "n96",
-        "segment": "seg-129",
-        "distance": 0.16,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n96",
-        "segment": "seg-129",
-        "distance": 0.16,
-        "trailType": "firelane"
+        "node": "n89",
+        "segment": "seg-114",
+        "distance": 0.1,
+        "trailType": "trail"
       }
     ],
     "n97": [
       {
-        "node": "n98",
-        "segment": "seg-133",
-        "distance": 0.11,
+        "node": "n73",
+        "segment": "seg-117",
+        "distance": 0.44,
         "trailType": "trail"
       }
     ],
     "n98": [
       {
-        "node": "n97",
-        "segment": "seg-133",
-        "distance": 0.11,
-        "trailType": "trail"
-      },
-      {
-        "node": "n91",
-        "segment": "seg-134",
-        "distance": 0.1,
-        "trailType": "trail"
-      }
-    ],
-    "n99": [
-      {
-        "node": "n75",
-        "segment": "seg-137",
-        "distance": 0.44,
-        "trailType": "trail"
-      }
-    ],
-    "n100": [
-      {
-        "node": "n48",
-        "segment": "seg-138",
+        "node": "n46",
+        "segment": "seg-118",
         "distance": 0.17,
         "trailType": "firelane"
       }
     ],
-    "n101": [
+    "n99": [
       {
-        "node": "n49",
-        "segment": "seg-139",
+        "node": "n47",
+        "segment": "seg-119",
         "distance": 0.14,
         "trailType": "firelane"
       },
       {
-        "node": "n105",
-        "segment": "seg-144",
-        "distance": 0.2,
+        "node": "n103",
+        "segment": "seg-124",
+        "distance": 0.21,
         "trailType": "trail"
       },
       {
-        "node": "n50",
-        "segment": "seg-231",
+        "node": "n48",
+        "segment": "seg-199",
         "distance": 0.07,
         "trailType": "connector"
       }
     ],
-    "n102": [
+    "n100": [
       {
-        "node": "n49",
-        "segment": "seg-140",
+        "node": "n47",
+        "segment": "seg-120",
         "distance": 0.1,
         "trailType": "firelane"
       },
       {
-        "node": "n103",
-        "segment": "seg-141",
+        "node": "n101",
+        "segment": "seg-121",
         "distance": 0.16,
         "trailType": "firelane"
       },
       {
-        "node": "n103",
-        "segment": "seg-230",
+        "node": "n101",
+        "segment": "seg-198",
         "distance": 0.25,
+        "trailType": "trail"
+      }
+    ],
+    "n101": [
+      {
+        "node": "n100",
+        "segment": "seg-121",
+        "distance": 0.16,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n102",
+        "segment": "seg-122",
+        "distance": 0.36,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n100",
+        "segment": "seg-198",
+        "distance": 0.25,
+        "trailType": "trail"
+      }
+    ],
+    "n102": [
+      {
+        "node": "n101",
+        "segment": "seg-122",
+        "distance": 0.36,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n75",
+        "segment": "seg-123",
+        "distance": 0.62,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n136",
+        "segment": "seg-202",
+        "distance": 0.52,
         "trailType": "trail"
       }
     ],
     "n103": [
       {
-        "node": "n102",
-        "segment": "seg-141",
-        "distance": 0.16,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n104",
-        "segment": "seg-142",
-        "distance": 0.36,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n102",
-        "segment": "seg-230",
-        "distance": 0.25,
+        "node": "n99",
+        "segment": "seg-124",
+        "distance": 0.21,
         "trailType": "trail"
+      },
+      {
+        "node": "n50",
+        "segment": "seg-125",
+        "distance": 0.38,
+        "trailType": "trail"
+      },
+      {
+        "node": "n49",
+        "segment": "seg-200",
+        "distance": 0.14,
+        "trailType": "connector"
       }
     ],
     "n104": [
       {
-        "node": "n103",
-        "segment": "seg-142",
-        "distance": 0.36,
-        "trailType": "firelane"
+        "node": "n50",
+        "segment": "seg-126",
+        "distance": 1.28,
+        "trailType": "trail"
       },
       {
-        "node": "n77",
-        "segment": "seg-143",
-        "distance": 0.62,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n139",
-        "segment": "seg-236",
-        "distance": 0.52,
+        "node": "n106",
+        "segment": "seg-129",
+        "distance": 1.3,
         "trailType": "trail"
       }
     ],
     "n105": [
       {
-        "node": "n101",
-        "segment": "seg-144",
-        "distance": 0.2,
-        "trailType": "trail"
-      },
-      {
-        "node": "n52",
-        "segment": "seg-145",
-        "distance": 0.38,
-        "trailType": "trail"
-      },
-      {
         "node": "n51",
-        "segment": "seg-232",
-        "distance": 0.14,
-        "trailType": "connector"
-      }
-    ],
-    "n106": [
-      {
-        "node": "n52",
-        "segment": "seg-146",
-        "distance": 1.28,
-        "trailType": "trail"
-      },
-      {
-        "node": "n108",
-        "segment": "seg-149",
-        "distance": 1.3,
-        "trailType": "trail"
-      }
-    ],
-    "n107": [
-      {
-        "node": "n53",
-        "segment": "seg-147",
+        "segment": "seg-127",
         "distance": 0.41,
         "trailType": "trail"
       }
     ],
-    "n108": [
+    "n106": [
       {
-        "node": "n53",
-        "segment": "seg-148",
+        "node": "n51",
+        "segment": "seg-128",
         "distance": 0.26,
         "trailType": "trail"
       },
       {
-        "node": "n106",
-        "segment": "seg-149",
+        "node": "n104",
+        "segment": "seg-129",
         "distance": 1.3,
         "trailType": "trail"
       },
       {
-        "node": "n109",
-        "segment": "seg-150",
+        "node": "n107",
+        "segment": "seg-130",
         "distance": 0.51,
+        "trailType": "firelane"
+      }
+    ],
+    "n107": [
+      {
+        "node": "n106",
+        "segment": "seg-130",
+        "distance": 0.51,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n108",
+        "segment": "seg-131",
+        "distance": 1,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n52",
+        "segment": "seg-134",
+        "distance": 0.38,
+        "trailType": "firelane"
+      }
+    ],
+    "n108": [
+      {
+        "node": "n107",
+        "segment": "seg-131",
+        "distance": 1,
         "trailType": "firelane"
       }
     ],
     "n109": [
       {
-        "node": "n108",
-        "segment": "seg-150",
-        "distance": 0.51,
-        "trailType": "firelane"
-      },
-      {
         "node": "n110",
-        "segment": "seg-151",
-        "distance": 1,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n54",
-        "segment": "seg-155",
-        "distance": 0.38,
+        "segment": "seg-132",
+        "distance": 0.68,
         "trailType": "firelane"
       }
     ],
     "n110": [
       {
         "node": "n109",
-        "segment": "seg-151",
-        "distance": 1,
+        "segment": "seg-132",
+        "distance": 0.68,
         "trailType": "firelane"
+      },
+      {
+        "node": "n52",
+        "segment": "seg-133",
+        "distance": 0.28,
+        "trailType": "firelane"
+      },
+      {
+        "node": "n135",
+        "segment": "seg-201",
+        "distance": 0.2,
+        "trailType": "trail"
       }
     ],
     "n111": [
       {
         "node": "n112",
-        "segment": "seg-152",
-        "distance": 0.65,
+        "segment": "seg-135",
+        "distance": 0.51,
         "trailType": "firelane"
       }
     ],
     "n112": [
       {
         "node": "n111",
-        "segment": "seg-152",
-        "distance": 0.65,
+        "segment": "seg-135",
+        "distance": 0.51,
         "trailType": "firelane"
       },
       {
-        "node": "n112",
-        "segment": "seg-153",
-        "distance": 0.03,
+        "node": "n113",
+        "segment": "seg-136",
+        "distance": 0.12,
         "trailType": "firelane"
       },
       {
-        "node": "n112",
-        "segment": "seg-153",
-        "distance": 0.03,
+        "node": "n114",
+        "segment": "seg-137",
+        "distance": 0.19,
         "trailType": "firelane"
-      },
-      {
-        "node": "n54",
-        "segment": "seg-154",
-        "distance": 0.28,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n138",
-        "segment": "seg-233",
-        "distance": 0.14,
-        "trailType": "trail"
       }
     ],
     "n113": [
       {
-        "node": "n114",
-        "segment": "seg-156",
-        "distance": 0.51,
+        "node": "n112",
+        "segment": "seg-136",
+        "distance": 0.12,
         "trailType": "firelane"
       }
     ],
     "n114": [
       {
-        "node": "n113",
-        "segment": "seg-156",
-        "distance": 0.51,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n115",
-        "segment": "seg-157",
-        "distance": 0.12,
-        "trailType": "firelane"
-      },
-      {
-        "node": "n116",
-        "segment": "seg-158",
+        "node": "n112",
+        "segment": "seg-137",
         "distance": 0.19,
         "trailType": "firelane"
       }
     ],
     "n115": [
       {
-        "node": "n114",
-        "segment": "seg-157",
-        "distance": 0.12,
+        "node": "n75",
+        "segment": "seg-138",
+        "distance": 0.63,
         "trailType": "firelane"
       }
     ],
     "n116": [
       {
-        "node": "n114",
-        "segment": "seg-158",
-        "distance": 0.19,
-        "trailType": "firelane"
+        "node": "n70",
+        "segment": "seg-139",
+        "distance": 0.7,
+        "trailType": "trail"
       }
     ],
     "n117": [
       {
-        "node": "n77",
-        "segment": "seg-159",
-        "distance": 0.63,
-        "trailType": "firelane"
+        "node": "n14",
+        "segment": "seg-144",
+        "distance": 0.27,
+        "trailType": "trail"
+      },
+      {
+        "node": "n14",
+        "segment": "seg-145",
+        "distance": 0.28,
+        "trailType": "trail"
+      },
+      {
+        "node": "n15",
+        "segment": "seg-146",
+        "distance": 0.25,
+        "trailType": "trail"
+      },
+      {
+        "node": "n118",
+        "segment": "seg-147",
+        "distance": 0.16,
+        "trailType": "trail"
+      },
+      {
+        "node": "n119",
+        "segment": "seg-148",
+        "distance": 0.16,
+        "trailType": "trail"
       }
     ],
     "n118": [
       {
-        "node": "n72",
-        "segment": "seg-160",
-        "distance": 0.7,
+        "node": "n117",
+        "segment": "seg-147",
+        "distance": 0.16,
         "trailType": "trail"
       }
     ],
     "n119": [
       {
-        "node": "n15",
-        "segment": "seg-165",
-        "distance": 0.27,
-        "trailType": "trail"
-      },
-      {
-        "node": "n15",
-        "segment": "seg-166",
-        "distance": 0.28,
-        "trailType": "trail"
-      },
-      {
-        "node": "n16",
-        "segment": "seg-167",
-        "distance": 0.25,
-        "trailType": "trail"
-      },
-      {
-        "node": "n120",
-        "segment": "seg-168",
-        "distance": 0.16,
-        "trailType": "trail"
-      },
-      {
-        "node": "n121",
-        "segment": "seg-169",
+        "node": "n117",
+        "segment": "seg-148",
         "distance": 0.16,
         "trailType": "trail"
       }
     ],
     "n120": [
       {
-        "node": "n119",
-        "segment": "seg-168",
-        "distance": 0.16,
+        "node": "n17",
+        "segment": "seg-149",
+        "distance": 0.86,
         "trailType": "trail"
       }
     ],
     "n121": [
       {
-        "node": "n119",
-        "segment": "seg-169",
-        "distance": 0.16,
+        "node": "n122",
+        "segment": "seg-150",
+        "distance": 0.13,
+        "trailType": "trail"
+      },
+      {
+        "node": "n21",
+        "segment": "seg-155",
+        "distance": 0.21,
         "trailType": "trail"
       }
     ],
     "n122": [
       {
+        "node": "n121",
+        "segment": "seg-150",
+        "distance": 0.13,
+        "trailType": "trail"
+      },
+      {
         "node": "n18",
-        "segment": "seg-170",
-        "distance": 0.83,
+        "segment": "seg-151",
+        "distance": 0.62,
         "trailType": "trail"
       },
       {
-        "node": "n122",
-        "segment": "seg-171",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n122",
-        "segment": "seg-171",
-        "distance": 0.02,
+        "node": "n20",
+        "segment": "seg-154",
+        "distance": 0.41,
         "trailType": "trail"
       }
     ],
     "n123": [
       {
-        "node": "n124",
-        "segment": "seg-172",
-        "distance": 0.13,
+        "node": "n18",
+        "segment": "seg-152",
+        "distance": 0.11,
         "trailType": "trail"
       }
     ],
     "n124": [
       {
-        "node": "n123",
-        "segment": "seg-172",
-        "distance": 0.13,
-        "trailType": "trail"
-      },
-      {
         "node": "n19",
-        "segment": "seg-173",
-        "distance": 0.62,
-        "trailType": "trail"
-      },
-      {
-        "node": "n21",
-        "segment": "seg-177",
-        "distance": 0.41,
+        "segment": "seg-153",
+        "distance": 0.22,
         "trailType": "trail"
       }
     ],
     "n125": [
       {
-        "node": "n19",
-        "segment": "seg-174",
-        "distance": 0.1,
+        "node": "n125",
+        "segment": "seg-156",
+        "distance": 0.05,
         "trailType": "trail"
       },
       {
         "node": "n125",
-        "segment": "seg-175",
-        "distance": 0.01,
+        "segment": "seg-156",
+        "distance": 0.05,
         "trailType": "trail"
       },
       {
-        "node": "n125",
-        "segment": "seg-175",
-        "distance": 0.01,
+        "node": "n23",
+        "segment": "seg-157",
+        "distance": 0.58,
+        "trailType": "trail"
+      },
+      {
+        "node": "n22",
+        "segment": "seg-159",
+        "distance": 0.3,
+        "trailType": "trail"
+      },
+      {
+        "node": "n24",
+        "segment": "seg-161",
+        "distance": 0.17,
         "trailType": "trail"
       }
     ],
     "n126": [
       {
-        "node": "n20",
-        "segment": "seg-176",
-        "distance": 0.22,
+        "node": "n61",
+        "segment": "seg-170",
+        "distance": 0.37,
+        "trailType": "trail"
+      },
+      {
+        "node": "n127",
+        "segment": "seg-171",
+        "distance": 0.13,
+        "trailType": "trail"
+      },
+      {
+        "node": "n62",
+        "segment": "seg-179",
+        "distance": 0.13,
         "trailType": "trail"
       }
     ],
     "n127": [
       {
-        "node": "n22",
-        "segment": "seg-178",
-        "distance": 0.2,
+        "node": "n126",
+        "segment": "seg-171",
+        "distance": 0.13,
+        "trailType": "trail"
+      },
+      {
+        "node": "n86",
+        "segment": "seg-172",
+        "distance": 0.45,
         "trailType": "trail"
       }
     ],
     "n128": [
       {
-        "node": "n128",
-        "segment": "seg-179",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n128",
-        "segment": "seg-179",
-        "distance": 0.01,
-        "trailType": "trail"
-      },
-      {
-        "node": "n128",
-        "segment": "seg-180",
-        "distance": 0.04,
-        "trailType": "trail"
-      },
-      {
-        "node": "n128",
-        "segment": "seg-180",
-        "distance": 0.04,
-        "trailType": "trail"
-      },
-      {
-        "node": "n24",
-        "segment": "seg-181",
-        "distance": 0.58,
-        "trailType": "trail"
-      },
-      {
-        "node": "n128",
-        "segment": "seg-183",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n128",
-        "segment": "seg-183",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n23",
-        "segment": "seg-184",
-        "distance": 0.28,
-        "trailType": "trail"
-      },
-      {
-        "node": "n25",
+        "node": "n71",
         "segment": "seg-186",
-        "distance": 0.16,
+        "distance": 0.47,
+        "trailType": "trail"
+      },
+      {
+        "node": "n129",
+        "segment": "seg-187",
+        "distance": 0.12,
+        "trailType": "trail"
+      },
+      {
+        "node": "n130",
+        "segment": "seg-188",
+        "distance": 0.15,
         "trailType": "trail"
       }
     ],
     "n129": [
       {
-        "node": "n63",
-        "segment": "seg-197",
-        "distance": 0.37,
-        "trailType": "trail"
-      },
-      {
-        "node": "n130",
-        "segment": "seg-198",
-        "distance": 0.13,
-        "trailType": "trail"
-      },
-      {
-        "node": "n64",
-        "segment": "seg-206",
-        "distance": 0.13,
+        "node": "n128",
+        "segment": "seg-187",
+        "distance": 0.12,
         "trailType": "trail"
       }
     ],
     "n130": [
       {
-        "node": "n129",
-        "segment": "seg-198",
-        "distance": 0.13,
-        "trailType": "trail"
-      },
-      {
-        "node": "n88",
-        "segment": "seg-199",
-        "distance": 0.45,
+        "node": "n128",
+        "segment": "seg-188",
+        "distance": 0.15,
         "trailType": "trail"
       }
     ],
     "n131": [
       {
-        "node": "n73",
-        "segment": "seg-216",
-        "distance": 0.47,
-        "trailType": "trail"
-      },
-      {
-        "node": "n132",
-        "segment": "seg-217",
-        "distance": 0.12,
-        "trailType": "trail"
-      },
-      {
-        "node": "n133",
-        "segment": "seg-218",
-        "distance": 0.15,
-        "trailType": "trail"
+        "node": "n90",
+        "segment": "seg-191",
+        "distance": 0.08,
+        "trailType": "connector"
       }
     ],
     "n132": [
       {
-        "node": "n131",
-        "segment": "seg-217",
-        "distance": 0.12,
+        "node": "n132",
+        "segment": "seg-192",
+        "distance": 0.09,
+        "trailType": "trail"
+      },
+      {
+        "node": "n132",
+        "segment": "seg-192",
+        "distance": 0.09,
         "trailType": "trail"
       }
     ],
     "n133": [
       {
-        "node": "n131",
-        "segment": "seg-218",
-        "distance": 0.15,
+        "node": "n44",
+        "segment": "seg-193",
+        "distance": 0.34,
         "trailType": "trail"
       }
     ],
     "n134": [
       {
-        "node": "n92",
-        "segment": "seg-221",
-        "distance": 0.08,
-        "trailType": "connector"
+        "node": "n74",
+        "segment": "seg-195",
+        "distance": 0.72,
+        "trailType": "trail"
       }
     ],
     "n135": [
       {
-        "node": "n136",
-        "segment": "seg-222",
-        "distance": 0.07,
-        "trailType": "trail"
-      },
-      {
-        "node": "n136",
-        "segment": "seg-223",
-        "distance": 0.02,
+        "node": "n110",
+        "segment": "seg-201",
+        "distance": 0.2,
         "trailType": "trail"
       }
     ],
     "n136": [
       {
-        "node": "n135",
-        "segment": "seg-222",
-        "distance": 0.07,
-        "trailType": "trail"
-      },
-      {
-        "node": "n135",
-        "segment": "seg-223",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n45",
-        "segment": "seg-224",
-        "distance": 0.34,
-        "trailType": "trail"
-      }
-    ],
-    "n137": [
-      {
-        "node": "n76",
-        "segment": "seg-226",
-        "distance": 0.72,
-        "trailType": "trail"
-      }
-    ],
-    "n138": [
-      {
-        "node": "n112",
-        "segment": "seg-233",
-        "distance": 0.14,
-        "trailType": "trail"
-      },
-      {
-        "node": "n138",
-        "segment": "seg-234",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n138",
-        "segment": "seg-234",
-        "distance": 0.02,
-        "trailType": "trail"
-      },
-      {
-        "node": "n138",
-        "segment": "seg-235",
-        "distance": 0.04,
-        "trailType": "trail"
-      },
-      {
-        "node": "n138",
-        "segment": "seg-235",
-        "distance": 0.04,
-        "trailType": "trail"
-      }
-    ],
-    "n139": [
-      {
-        "node": "n104",
-        "segment": "seg-236",
+        "node": "n102",
+        "segment": "seg-202",
         "distance": 0.52,
         "trailType": "trail"
       }

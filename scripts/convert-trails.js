@@ -237,6 +237,34 @@ function injectTrailheadSplits(points, trailheads, toleranceMiles = 0.06) {
   }
 }
 
+// --- Merge tiny segments with their neighbors ---
+function mergeTinySegments(segments, minMiles = 0.05) {
+  if (segments.length <= 1) return segments
+  const merged = []
+  let i = 0
+  while (i < segments.length) {
+    const seg = segments[i]
+    const dist = computeDistance(seg.points)
+
+    if (dist < minMiles && merged.length > 0) {
+      // Merge into previous segment
+      const prev = merged[merged.length - 1]
+      // Append points (skip first to avoid duplicate junction point)
+      prev.points = prev.points.concat(seg.points.slice(1))
+      prev.endLabel = seg.endLabel
+    } else if (dist < minMiles && i + 1 < segments.length) {
+      // Merge into next segment
+      const next = segments[i + 1]
+      next.points = seg.points.concat(next.points.slice(1))
+      next.startLabel = seg.startLabel
+    } else {
+      merged.push(seg)
+    }
+    i++
+  }
+  return merged
+}
+
 // --- Split a trail's points at junction indices, produce sub-segments ---
 function splitAtJunctions(trailName, points) {
   // Find indices of junction points (includes injected trailhead splits)
@@ -360,7 +388,8 @@ async function main() {
   for (const [trailName, points] of grouped) {
     if (points.length < 2) continue
 
-    const subSegments = splitAtJunctions(trailName, points)
+    const rawSegments = splitAtJunctions(trailName, points)
+    const subSegments = mergeTinySegments(rawSegments)
     totalSplitSegments += subSegments.length
 
     for (const sub of subSegments) {
